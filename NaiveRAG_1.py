@@ -13,6 +13,10 @@ from huggingface_hub import login
 login()
 """
 
+def normalize_string(s):
+    s = re.sub(r"[^\w\s]", "", s)
+    return s.lower().strip()
+
 embedding_model_name = "sentence-transformers/distiluse-base-multilingual-cased-v2"
 model_name = "google/gemma-3-1b-it"
 dataset_name = "LLukas22/nq-simplified"
@@ -65,14 +69,10 @@ for row in dataset.select(range(10)):
     model_answer = tokenizer.decode(outputs[0])
     model_answer = model_answer.split("<start_of_turn>model", 1)[1]
     model_answer = model_answer.split("<end_of_turn>", 1)[0]
-    model_answer = model_answer.lower().strip()
-    model_answer = re.sub(r"[^\w\s]", "", model_answer)
 
-    true_answer = answer.lower().strip()
-    true_answer = re.sub(r"[^\w\s]", "", true_answer)
 
-    model_answers.append(model_answer)
-    true_answers.append(true_answer)
+    model_answers.append(normalize_string(model_answer))
+    true_answers.append(normalize_string(answer))
 
 # Per ciascuna risposta del modello e risposta vera si effettua l'embedding semantico
 # Poi calcoliamo la cosine similarity fra le due risposte per avere una metrica di valutazione
