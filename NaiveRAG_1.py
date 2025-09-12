@@ -18,7 +18,7 @@ def normalize_string(s):
     return s.lower().strip()
 
 embedding_model_name = "sentence-transformers/distiluse-base-multilingual-cased-v2"
-model_name = "google/gemma-3-1b-it"
+model_name = "google/gemma-3-270m-it"
 dataset_name = "LLukas22/nq-simplified"
 
 device = "cuda" if torch.cuda.is_available() else "cpu"
@@ -30,7 +30,7 @@ dataset = load_dataset(dataset_name, split="train")
 # Creazione dei modelli di embedding e text generation
 embedding_model = SentenceTransformer(embedding_model_name).to(device)
 model = AutoModelForCausalLM.from_pretrained(
-    model_name,
+    model_name
 ).to(device)
 
 # Creazione del tokenizer per il modello scelto
