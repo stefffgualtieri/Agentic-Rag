@@ -5,3 +5,4 @@ gpu_check.py
 heap_test.py
 hf_token.txt
 v1.0-simplified_nq-dev-all.jsonl
+openai_key.txt

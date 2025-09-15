@@ -1,0 +1,1505 @@
+[
+    {
+        "origin": {
+            "question": "what do the 3 dots mean in math",
+            "true_answer": "the therefore sign is generally used before a logical consequence such as the conclusion of a syllogism",
+            "model_answer": "the symbols are part of a mathematical formula",
+            "similarity": 0.25219666957855225
+        },
+        "evaluation": "Feedback::\nEvaluation: The model answer is generic and does not explain the meaning of the three dots. It fails to distinguish between the ellipsis (\u2026, used for omission or continuation) and the therefore symbol (\u2234), which aligns with the provided correct answer. It does not address the specific interpretation asked in the question.\nTotal rating: 2"
+    },
+    {
+        "origin": {
+            "question": "who is playing the halftime show at super bowl 2016",
+            "true_answer": "coldplay with special guest performers beyonc\u00e9 and bruno mars",
+            "model_answer": "coldplay",
+            "similarity": 0.31290873885154724
+        },
+        "evaluation": "Feedback::\nEvaluation: The model answer correctly identifies Coldplay as the halftime show performer but omits the special guests Beyonc\u00e9 and Bruno Mars, making it incomplete compared to the full correct answer.\nTotal rating: 2"
+    },
+    {
+        "origin": {
+            "question": "who won the 2017 sports personality of the year",
+            "true_answer": "mo farah",
+            "model_answer": "mo farah",
+            "similarity": 1.0
+        },
+        "evaluation": "Feedback::\nEvaluation: The model provided the exact correct answer (\"mo farah\"). It matches the expected answer precisely (case-insensitive in this context). No additional information needed.\nTotal rating: 4"
+    },
+    {
+        "origin": {
+            "question": "where was the world economic forum held this year",
+            "true_answer": "davos a mountain resort in graub\u00fcnden in the eastern alps region of switzerland",
+            "model_answer": "world economic forum geneva",
+            "similarity": 0.03537007048726082
+        },
+        "evaluation": "Feedback::\nEvaluation: The model answer incorrectly states Geneva instead of Davos. The correct location is Davos, a mountain resort in Graub\u00fcnden in the eastern Alps, Switzerland. The answer misses the primary detail of the location.\nTotal rating: 1"
+    },
+    {
+        "origin": {
+            "question": "where are the giant redwoods located in california",
+            "true_answer": "humboldt county",
+            "model_answer": "redwood national park headquarters is located in crescent city california with a service office located in arcata and an operations center located in orick california",
+            "similarity": 0.14596393704414368
+        },
+        "evaluation": "Feedback::\nEvaluation: The correct answer is Humboldt County. The model answer discusses Redwood National Park headquarters and specific offices (Crescent City, Arcata, Orick) rather than directly stating the location of the giant redwoods. This introduces potentially conflicting or irrelevant details and does not clearly identify Humboldt County as the location. Overall, it\u2019s not a correct or direct response.\n\nTotal rating: 2"
+    },
+    {
+        "origin": {
+            "question": "who has made the most premier league appearances",
+            "true_answer": "gareth barry",
+            "model_answer": "gareth barry",
+            "similarity": 0.9999998211860657
+        },
+        "evaluation": "Feedback::\nEvaluation: The model answer is exactly correct; it names gareth barry, matching the correct answer.\nTotal rating: 4"
+    },
+    {
+        "origin": {
+            "question": "who was the first chief minister of west bengal",
+            "true_answer": "prafulla chandra ghosh of the indian national congress",
+            "model_answer": "prafulla chandra ghosh",
+            "similarity": 0.4562113285064697
+        },
+        "evaluation": "Feedback::\nEvaluation: The model answer is the exact name of the person (Prafulla Chandra Ghosh) and matches the provided correct answer. It does not include party affiliation, but that is not required for this question. Therefore, it is correct and fully sufficient.\nTotal rating: 4"
+    },
+    {
+        "origin": {
+            "question": "two main types of research methods used in psychology",
+            "true_answer": "correlational research",
+            "model_answer": "correlational research experimental research",
+            "similarity": 0.9025940299034119
+        },
+        "evaluation": "Feedback::\nEvaluation: The model answer includes correlational research (correct) but also adds experimental research, which contradicts the provided correct answer (correlational research only). Because of this mismatch, the response is not strictly aligned with the given key, though it does identify the correct term. Rating: 2\nTotal rating: 2"
+    },
+    {
+        "origin": {
+            "question": "who plays peter in what we do in the shadows",
+            "true_answer": "ben fransham",
+            "model_answer": "based on the context stephen fry plays peter",
+            "similarity": 0.24898940324783325
+        },
+        "evaluation": "Feedback::\nEvaluation: The model answer is incorrect. The correct actor for Peter is Ben Fransham, whereas the model claims Stephen Fry. There is no well-known cast credit for Stephen Fry as Peter in What We Do in the Shadows. The response is entirely wrong and unhelpful.\n\nTotal rating: 1"
+    },
+    {
+        "origin": {
+            "question": "when does the 14th season of grey s anatomy come out",
+            "true_answer": "september 28 2017",
+            "model_answer": "february 10 2017",
+            "similarity": 0.864835262298584
+        },
+        "evaluation": "Feedback::\nEvaluation: The model answer is completely incorrect. The correct premiere date for Grey's Anatomy Season 14 is September 28, 2017; the model gave February 10, 2017, which does not match and is unrelated to Season 14.\nTotal rating: 1"
+    },
+    {
+        "origin": {
+            "question": "when was the first hunger games book published",
+            "true_answer": "2008",
+            "model_answer": "september 14 2008",
+            "similarity": 0.7488799691200256
+        },
+        "evaluation": "Feedback:::\nEvaluation: The model correctly states the publication date of The Hunger Games: September 14, 2008. This matches the known publication date (US release) and is more precise than the asked year.\nTotal rating: 4"
+    },
+    {
+        "origin": {
+            "question": "how much is the united states in debt to china",
+            "true_answer": "12005",
+            "model_answer": "18",
+            "similarity": 0.4168039560317993
+        },
+        "evaluation": "Feedback:::\nEvaluation: The model answer is completely incorrect. The correct value is 12005, but the model provided 18, which does not answer the question and is misleading.\nTotal rating: 1"
+    },
+    {
+        "origin": {
+            "question": "where did the race in grease take place",
+            "true_answer": "thunder road",
+            "model_answer": "los angeles river",
+            "similarity": 0.3917941451072693
+        },
+        "evaluation": "Feedback::\nEvaluation: The model answer is completely incorrect. The correct location is Thunder Road, but the model output says \"los angeles river,\" which does not match or relate to the event in Grease.\nTotal rating: 1"
+    },
+    {
+        "origin": {
+            "question": "what is the maximum data rate for the 80211a standard select one",
+            "true_answer": "54 mbit s",
+            "model_answer": "1 d standard 2001 ieee 802",
+            "similarity": 0.12724488973617554
+        },
+        "evaluation": "Feedback::\nEvaluation: The provided answer does not specify the maximum data rate (which should be 54 Mbps). It only contains a garbled fragment mentioning \"1 d standard 2001 ieee 802\" and fails to answer the question.\n\nTotal rating: 1"
+    },
+    {
+        "origin": {
+            "question": "who become the ceo of it wipro company in 2016",
+            "true_answer": "abid ali neemuchwala",
+            "model_answer": "wipro announced that it was buying appirio",
+            "similarity": 0.20647022128105164
+        },
+        "evaluation": "Feedback::\nEvaluation: The model answer is completely incorrect and irrelevant to the question. It discusses a different topic (Wipro buying Appirio) instead of naming the CEO who became CEO in 2016 (Abid Ali Neemuchwala). It fails to provide the required information.\nTotal rating: 1"
+    },
+    {
+        "origin": {
+            "question": "who plays unis in she s the man",
+            "true_answer": "emily perkins",
+            "model_answer": "amanda bynes",
+            "similarity": 0.42888349294662476
+        },
+        "evaluation": "Feedback::\nEvaluation: The model answer is completely incorrect. The correct answer is Emily Perkins, not Amanda Bynes. Amanda Bynes plays Viola Hastings in She's the Man, not a character named Unis. The model failed to identify the correct actor for the specified role.\nTotal rating: 1"
+    },
+    {
+        "origin": {
+            "question": "where does the term dog and pony show come from",
+            "true_answer": "in the united states in the late 19th and early 20th centuries",
+            "model_answer": "the context provides the answer to the question",
+            "similarity": 0.1022723987698555
+        },
+        "evaluation": "Feedback::\nEvaluation: The model answer does not address the question at all. It provides a generic and unhelpful statement (\"the context provides the answer\") instead of stating the origin and timeframe (United States, late 19th/early 20th centuries). This misses the key factual content entirely.\nTotal rating: 1"
+    },
+    {
+        "origin": {
+            "question": "who is recognized as the founder of islam",
+            "true_answer": "muhammad",
+            "model_answer": "fact0 muslim identities an introduction to islam",
+            "similarity": 0.3546631932258606
+        },
+        "evaluation": "Feedback::\nEvaluation: The model's answer does not respond with Muhammad; it provides a fragment that seems like unrelated text (\"fact0 muslim identities an introduction to islam\") and fails to identify the founder. It is completely incorrect.\nTotal rating: 1"
+    },
+    {
+        "origin": {
+            "question": "who plays emma in air bud world pup",
+            "true_answer": "brittany paige bouck",
+            "model_answer": "caitlin wachs",
+            "similarity": 0.626309871673584
+        },
+        "evaluation": "Feedback::\nEvaluation: The correct answer is Brittany Paige Bouck, but the model answered Caitlin Wachs. This is a completely incorrect response and does not provide any correct information.\nTotal rating: 1"
+    },
+    {
+        "origin": {
+            "question": "how old was sasuke when his clan died",
+            "true_answer": "seven",
+            "model_answer": "seven",
+            "similarity": 1.0
+        },
+        "evaluation": "Feedback::\nEvaluation: The model answer is correct; it exactly matches the known fact that Sasuke was seven years old when his clan died. It is concise and to the point.\nTotal rating: 4"
+    },
+    {
+        "origin": {
+            "question": "how long is training camp for nfl players",
+            "true_answer": "at least the first few weeks",
+            "model_answer": "late july",
+            "similarity": 0.5363467931747437
+        },
+        "evaluation": "Feedback::\nEvaluation: The model answer \"late july\" addresses when training camp starts, not how long it lasts. The correct answer specifies duration (at least the first few weeks). Therefore the response is completely misaligned with the question\u2019s demand about duration.\nTotal rating: 1"
+    },
+    {
+        "origin": {
+            "question": "who is the pastor of new birth missionary baptist church now",
+            "true_answer": "stephen a davis",
+            "model_answer": "davis pastor",
+            "similarity": 0.629386305809021
+        },
+        "evaluation": "Feedback::\nEvaluation: The model answer \"davis pastor\" correctly identifies the surname and that he is the pastor, which aligns with the correct person in essence. However, it does not provide the full name \"Stephen A. Davis\" as the correct answer specifies, making it incomplete.\n\nTotal rating: 3"
+    },
+    {
+        "origin": {
+            "question": "who is doing 2018 super bowl half time show",
+            "true_answer": "justin timberlake",
+            "model_answer": "justin timberlake",
+            "similarity": 1.0
+        },
+        "evaluation": "Feedback::\nEvaluation: The model answer is correct; it directly names Justin Timberlake as the performer for the 2018 Super Bowl halftime show. It is concise and accurate.\nTotal rating: 4"
+    },
+    {
+        "origin": {
+            "question": "who hosted they think it s all over",
+            "true_answer": "comedian nick hancock",
+            "model_answer": "unknown",
+            "similarity": 0.20084317028522491
+        },
+        "evaluation": "Feedback::\nEvaluation: The model answer is completely incorrect. The correct host is Nick Hancock, but the model said \"unknown,\" which provides no useful information.\nTotal rating: 1"
+    },
+    {
+        "origin": {
+            "question": "where does the movie proof of life take place",
+            "true_answer": "the republic of tecala",
+            "model_answer": "kenya",
+            "similarity": 0.2554444372653961
+        },
+        "evaluation": "Feedback::\nEvaluation: The model answer is incorrect. It states Kenya, whereas the correct location in the question is the Republic of Tecala (a fictional country). The answer fails to match the required fictional setting.\nTotal rating: 1"
+    },
+    {
+        "origin": {
+            "question": "who breaks a tie in the us senate",
+            "true_answer": "vice president of the united states",
+            "model_answer": "senate",
+            "similarity": 0.5437421798706055
+        },
+        "evaluation": "Feedback::\nEvaluation: The correct answer is the Vice President of the United States who serves as President of the Senate and casts the tie-breaking vote. The model answered \"senate,\" which is incorrect and does not identify the tie-breaker. It misses the key agent responsible for breaking ties.\nTotal rating: 1"
+    },
+    {
+        "origin": {
+            "question": "where does us highway 1 start and end",
+            "true_answer": "from fort kent maine at the canada us border south to key west florida",
+            "model_answer": "as a parallel route to i 95 near the atlantic ocean",
+            "similarity": 0.2871517837047577
+        },
+        "evaluation": "Feedback::\nEvaluation: The model answer fails to provide the required start and end points. It only gives a vague description (parallel to I-95 near the Atlantic) and does not state Fort Kent, Maine to Key West, Florida. Therefore, it is incorrect and not helpful.\nTotal rating: 1"
+    },
+    {
+        "origin": {
+            "question": "who scored the most points in a single game in the nba",
+            "true_answer": "wilt chamberlain",
+            "model_answer": "fact0 most points scored in an opposing arena",
+            "similarity": 0.12124596536159515
+        },
+        "evaluation": "Feedback::\nEvaluation: The model answer does not mention Wilt Chamberlain or provide the correct answer. It offers an unrelated fragment about \"most points scored in an opposing arena,\" which is incorrect and unhelpful for the question.\nTotal rating: 1"
+    },
+    {
+        "origin": {
+            "question": "where is natural gas found in the us",
+            "true_answer": "texas",
+            "model_answer": "fact0 natural gas which contains ngls is called wet gas fact1 natural gas increasingly became a sought for commodity fact2 as of 2011 262000 vehicles in the us ran on natural gas fact3 in the 1800s and",
+            "similarity": -0.026489699259400368
+        },
+        "evaluation": "Feedback::\nEvaluation: The model answer does not answer the question. It provides unrelated fragments about wet gas, general commodity status, a vehicle statistic, and an incomplete sentence, with no mention of any location (e.g., Texas). Therefore it is completely unhelpful and incorrect.\nTotal rating: 1"
+    },
+    {
+        "origin": {
+            "question": "first jnanpith award was an autor of which language",
+            "true_answer": "malayalam",
+            "model_answer": "malayalam",
+            "similarity": 0.9999998807907104
+        },
+        "evaluation": "Feedback::\nEvaluation: The model's answer is correct and concise. It exactly matches the correct answer (Malayalam) to the question about the language of the first Jnanpith Award author.\nTotal rating: 4"
+    },
+    {
+        "origin": {
+            "question": "who played the mad hatter in the batman tv show",
+            "true_answer": "david wayne",
+            "model_answer": "bruce wayne",
+            "similarity": 0.5490780472755432
+        },
+        "evaluation": "Feedback::\nEvaluation: The model answer is completely incorrect. The Mad Hatter in the Batman TV show was played by David Wayne, not Bruce Wayne. The model's response identifies Batman\u2019s alter ego, which is unrelated to the question.\nTotal rating: 1"
+    },
+    {
+        "origin": {
+            "question": "how many cracker barrels in the united states",
+            "true_answer": "more than 600",
+            "model_answer": "nine",
+            "similarity": 0.2328844964504242
+        },
+        "evaluation": "Feedback::\nEvaluation: The model answer \"nine\" is completely incorrect. The question expects the number of Cracker Barrel locations in the U.S., which is more than 600. The provided answer is far off and does not reflect the correct factual information. A correct response would state something like \"more than 600 (around 600\u2013660 locations in the U.S.).\"\nTotal rating: 1"
+    },
+    {
+        "origin": {
+            "question": "who voices randy in f is for family",
+            "true_answer": "tj miller",
+            "model_answer": "laura dern",
+            "similarity": 0.7345002293586731
+        },
+        "evaluation": "Feedback::\nEvaluation: The model answer is incorrect. Randy in F Is for Family is voiced by TJ Miller, not Laura Dern. Laura Dern voices Sue Murphy. The model failed to identify the correct voice actor.\nTotal rating: 1"
+    },
+    {
+        "origin": {
+            "question": "how many countries does cadbury sell its products",
+            "true_answer": "more than 50 countries worldwide",
+            "model_answer": "according to the context cadbury sells its products in several countries",
+            "similarity": 0.3092923164367676
+        },
+        "evaluation": "Feedback::\nEvaluation: The model answer states \"in several countries\" but does not specify the numeric figure. The correct answer is \"more than 50 countries worldwide,\" so the model answer is vague and misses a key detail.\nTotal rating: 2"
+    },
+    {
+        "origin": {
+            "question": "who does the voice of ash in sing",
+            "true_answer": "scarlett johansson",
+            "model_answer": "garth jennings",
+            "similarity": 0.580207347869873
+        },
+        "evaluation": "Feedback::\nEvaluation: The model answer is completely incorrect. Garth Jennings is the director of Sing, not the voice actor for Ash. The correct answer is Scarlett Johansson, who voices Ash. The response misses the key facts entirely.\nTotal rating: 1"
+    },
+    {
+        "origin": {
+            "question": "who scored the most points in their nba career",
+            "true_answer": "kareem abdul jabbar",
+            "model_answer": "kareem abduljabbar has scored the most career points in the nba",
+            "similarity": 0.49486422538757324
+        },
+        "evaluation": "Feedback::\nEvaluation: The model correctly identifies Kareem Abdul-Jabbar as the all-time leading scorer. The only issue is a minor formatting/spacing/capitalization difference in the name (\"abduljabbar\" vs \"Abdul-Jabbar\"), but the factual content is correct. \nTotal rating: 4"
+    },
+    {
+        "origin": {
+            "question": "with a land area of 54 314 square miles where does wisconsin rank among the 50 states",
+            "true_answer": "25",
+            "model_answer": "54 314 square miles",
+            "similarity": 0.19837456941604614
+        },
+        "evaluation": "Feedback::\nEvaluation: The model answer is completely incorrect: it outputs the land area \"54 314 square miles\" instead of the rank (25). The question asks for Wisconsin's rank among the 50 states, so the correct response should be the number 25, not an area measurement.\n\nTotal rating: 1"
+    },
+    {
+        "origin": {
+            "question": "who plays charles on have and have nots",
+            "true_answer": "nick sager",
+            "model_answer": "the haves and have nots",
+            "similarity": 0.3961838185787201
+        },
+        "evaluation": "Feedback::\nEvaluation: The model answer is incorrect. The question asks for the actor who plays Charles in The Haves and the Have Nots; the correct answer is \"Nick Sager.\" The model responded with the title of the show, not the actor's name.\nTotal rating: 1"
+    },
+    {
+        "origin": {
+            "question": "where is nathan s hotdog eating contest held",
+            "true_answer": "at nathan s famous corporation s original and best known restaurant at the corner of surf and stillwell avenues in coney island a neighborhood of brooklyn new york city",
+            "model_answer": "japan",
+            "similarity": 0.014156565070152283
+        },
+        "evaluation": "Feedback::\nEvaluation: The model answer is completely incorrect. The correct location is Nathan's Famous in Coney Island, Brooklyn, NY, at the corner of Surf and Stillwell Avenues. \"Japan\" has no relevance to the contest's location.\nTotal rating: 1"
+    },
+    {
+        "origin": {
+            "question": "who wrote the book my country my life",
+            "true_answer": "lk advani an indian politician who served as the deputy prime minister of india from 2002 to 2004 and was the leader of the opposition in the 15th lok sabha",
+            "model_answer": "advani s autobiography my country my life by lutakrishna advani rupa",
+            "similarity": 0.19738388061523438
+        },
+        "evaluation": "Feedback::\nEvaluation: The model correctly identifies the author (L. K. Advani) and the book title \"My Country My Life\" and notes it as his autobiography. However, it adds erroneous or unclear terms \"lutakrishna advani rupa,\" which detracts from clarity and accuracy. Overall, the essential information is correct, but the answer is not perfectly phrased.\n\nTotal rating: 3"
+    },
+    {
+        "origin": {
+            "question": "what does it mean to be on parole",
+            "true_answer": "a temporary release of a prisoner who agrees to certain conditions before the completion of the maximum sentence period",
+            "model_answer": "to be on parole means to be released from prison with supervision",
+            "similarity": 0.5110542178153992
+        },
+        "evaluation": "Feedback::: The model answer correctly identifies that parole involves release with supervision, which captures the core concept. However, it omits explicit mention of the conditions attached to parole and the fact that it occurs before the completion of the sentence. It is correct but incomplete. \nEvaluation: 3\nTotal rating: 3"
+    },
+    {
+        "origin": {
+            "question": "the origins of the stations of the cross",
+            "true_answer": "via dolorosa in jerusalem which is believed to be the actual path jesus walked to mount calvary",
+            "model_answer": "the context doesnt provide origins",
+            "similarity": 0.08313429355621338
+        },
+        "evaluation": "Feedback::\nEvaluation: The model answer is incorrect and unhelpful. It asserts that the context doesn\u2019t provide origins, whereas the correct origin is the Via Dolorosa in Jerusalem, believed to be Jesus' path to Calvary. The response fails to address the question and provides no relevant information.\nTotal rating: 1"
+    },
+    {
+        "origin": {
+            "question": "where does the water come from to fill lake eyre",
+            "true_answer": "warburton river",
+            "model_answer": "monsoon",
+            "similarity": 0.3159625232219696
+        },
+        "evaluation": "Feedback::\nEvaluation: The correct answer is the Warburton River. The model answer \"monsoon\" is incorrect and does not identify the specific water source feeding Lake Eyre. It is not the direct source the question asks for.\nTotal rating: 1"
+    },
+    {
+        "origin": {
+            "question": "who is the founder of google and when was it founded",
+            "true_answer": "1998",
+            "model_answer": "larry page and sergey brin 1998",
+            "similarity": 0.5037044286727905
+        },
+        "evaluation": "Feedback::\nEvaluation: The model answer correctly lists both founders (Larry Page and Sergey Brin) and the founding year (1998). It fully satisfies the question with accurate and complete information.\nTotal rating: 4"
+    },
+    {
+        "origin": {
+            "question": "who did the dominican republic gain its independence from",
+            "true_answer": "haiti",
+            "model_answer": "dominican republic",
+            "similarity": 0.19258233904838562
+        },
+        "evaluation": "Feedback:::\nEvaluation: The question asks for the country from which the Dominican Republic gained independence; the correct answer is Haiti. The model answered \"dominican republic,\" which is incorrect and does not address the question.\nTotal rating: 1"
+    },
+    {
+        "origin": {
+            "question": "who wrote the text for jeanie with the light brown hair",
+            "true_answer": "stephen foster",
+            "model_answer": "stephen foster",
+            "similarity": 0.9999998807907104
+        },
+        "evaluation": "Feedback::\nEvaluation: The model answer correctly identifies Stephen Foster as the writer of the text for \"Jeanie with the Light Brown Hair.\" It matches the expected correct answer exactly.\nTotal rating: 4"
+    },
+    {
+        "origin": {
+            "question": "where does the bob and tom show broadcast from",
+            "true_answer": "wfbq in indianapolis indiana",
+            "model_answer": "from their nightly tv show",
+            "similarity": 0.15358538925647736
+        },
+        "evaluation": "Feedback::\nEvaluation: The model answer is completely incorrect. It does not provide the correct broadcast location or station; stating \"from their nightly tv show\" is inaccurate for the Bob and Tom Show, which is a radio program broadcast from WFBQ in Indianapolis, Indiana.\nTotal rating: 1"
+    },
+    {
+        "origin": {
+            "question": "who won the champions league final in 2016",
+            "true_answer": "real madrid",
+            "model_answer": "real madrid",
+            "similarity": 1.0000001192092896
+        },
+        "evaluation": "Feedback::\nEvaluation: The model answered with the correct team name for the 2016 Champions League final (Real Madrid) and did so concisely. The response matches the correct answer provided (case-insensitive in practice). It directly satisfies the question without extra, unnecessary details.\nTotal rating: 4"
+    },
+    {
+        "origin": {
+            "question": "who has the most gold medals in the winter olympics of all time",
+            "true_answer": "norway",
+            "model_answer": "none",
+            "similarity": 0.5097134113311768
+        },
+        "evaluation": "Feedback::\nEvaluation: The correct answer is \"Norway\". The model answer \"none\" is completely incorrect and uninformative, providing no relevant information.\n\nTotal rating: 1"
+    },
+    {
+        "origin": {
+            "question": "where was the movie strangers prey at night filmed",
+            "true_answer": "covington kentucky",
+            "model_answer": "unknown",
+            "similarity": 0.2379809319972992
+        },
+        "evaluation": "Feedback::\nEvaluation: The model answer is incorrect; the correct filming location is Covington, Kentucky. The answer \"unknown\" provides no useful information.\nTotal rating: 1"
+    },
+    {
+        "origin": {
+            "question": "when does a limit of a function not exist",
+            "true_answer": "if some inputs very close to p are taken to outputs that stay a fixed distance apart",
+            "model_answer": "fact0 if either one sided limit does not exist at p the limit at p does not exist",
+            "similarity": 0.3732927739620209
+        },
+        "evaluation": "Feedback::\nEvaluation: The model answer provides a partial criterion: it claims the limit does not exist if either the left-hand or right-hand limit does not exist. While true, this is not a complete characterization, because the two-sided limit can also fail to exist even when both one-sided limits exist but are not equal. The correct (complete) explanation involves sequences approaching p with outputs that fail to converge to the same value (or the epsilon-delta divergence condition). The inclusion of \"fact0\" also introduces unclear formatting. Overall, the answer is incomplete and thus not fully correct.\n\nTotal rating: 2"
+    },
+    {
+        "origin": {
+            "question": "when was i do n t like mondays released",
+            "true_answer": "21 july 1979",
+            "model_answer": "1979",
+            "similarity": 0.8545490503311157
+        },
+        "evaluation": "Feedback::\nEvaluation: The model answer correctly identifies the year (1979) but misses the exact release date. The correct answer is 21 July 1979, so the response is partially correct but not fully precise.\nTotal rating: 3"
+    },
+    {
+        "origin": {
+            "question": "what do the economic systems of the uk germany and russia have in common",
+            "true_answer": "reached an economy of at least us 2 trillion by gdp in nominal or ppp terms",
+            "model_answer": "the economic systems of the uk germany and russia share a common characteristic they are all based on a market economy",
+            "similarity": 0.21887081861495972
+        },
+        "evaluation": "Feedback::\nEvaluation: The model answer incorrectly identifies the common feature as \"being based on a market economy,\" which is not the criterion given in the correct answer. The correct answer specifies a quantitative GDP benchmark (at least $2 trillion, nominal or PPP). The model answer misses this key point and thus provides an irrelevant/commonality.\n\nTotal rating: 1"
+    },
+    {
+        "origin": {
+            "question": "what does the sun represent on the uruguay flag",
+            "true_answer": "represents the may revolution of 1810",
+            "model_answer": "nine horizontal stripes of white alternate with blue",
+            "similarity": 0.10011995583772659
+        },
+        "evaluation": "Feedback::\nEvaluation: The model answer is completely incorrect. It describes the flag's stripes (nine horizontal stripes) rather than addressing the sun. The sun on the Uruguay flag represents the May Revolution of 1810.\n\nTotal rating: 1"
+    },
+    {
+        "origin": {
+            "question": "who dies in season 2 of the originals",
+            "true_answer": "kol",
+            "model_answer": "elijah rebekah klaus and davina",
+            "similarity": 0.1749437153339386
+        },
+        "evaluation": "Feedback::\nEvaluation: The correct answer is Kol, but the model claims Elijah, Rebekah, Klaus, and Davina die in season 2. This is incorrect and includes deaths that did not occur in Season 2 according to the provided answer.\nTotal rating: 1"
+    },
+    {
+        "origin": {
+            "question": "when did beryl markham fly across the atlantic",
+            "true_answer": "september 1936",
+            "model_answer": "1936",
+            "similarity": 0.8794229030609131
+        },
+        "evaluation": "Feedback::\nEvaluation: The model answer correctly identifies the year (1936) but omits the specific month (September), which is the key part of the question. Therefore, it is correct but incomplete.\nTotal rating: 3"
+    },
+    {
+        "origin": {
+            "question": "who played john clark sr on nypd blue",
+            "true_answer": "joe spano",
+            "model_answer": "john clark sr",
+            "similarity": 0.653164803981781
+        },
+        "evaluation": "Feedback::\nEvaluation: The model answered \"john clark sr,\" which is the character's name, not the actor. The correct answer is \"joe spano.\" Therefore the response is incorrect and unhelpful.\nTotal rating: 1"
+    },
+    {
+        "origin": {
+            "question": "who wrote most of the declaration of independance",
+            "true_answer": "thomas jefferson",
+            "model_answer": "fact0 thomas jefferson",
+            "similarity": 0.7071942090988159
+        },
+        "evaluation": "Feedback::\nEvaluation: The model answer correctly states Thomas Jefferson as the author; the inclusion of the word \"fact0\" is extraneous but does not change the meaning.\nTotal rating: 4"
+    },
+    {
+        "origin": {
+            "question": "who does brant daugherty play in pretty little liars",
+            "true_answer": "noel kahn",
+            "model_answer": "brant kahn",
+            "similarity": 0.8238586187362671
+        },
+        "evaluation": "Feedback::\nEvaluation: The model answer is incorrect. The correct answer is Noel Kahn. The model responded with \"brant kahn,\" which mistakenly uses the actor's name (Brant Daugherty) or misidentifies the character, and does not provide the correct character name.\nTotal rating: 1"
+    },
+    {
+        "origin": {
+            "question": "who played the villain in tiger zinda hai",
+            "true_answer": "sajjad delafrooz",
+            "model_answer": "paresh rawal",
+            "similarity": 0.7986656427383423
+        },
+        "evaluation": "Feedback::\nEvaluation: The answer is incorrect. In Tiger Zinda Hai, the villain is Sajjad Delafrooz (as Abu Usman). Paresh Rawal did not portray the villain in this film. The model answer completely misses the correct actor.\nTotal rating: 1"
+    },
+    {
+        "origin": {
+            "question": "when did under the cork tree come out",
+            "true_answer": "may 3 2005",
+            "model_answer": "february 2013",
+            "similarity": 0.5578397512435913
+        },
+        "evaluation": "Feedback::\nEvaluation: The model answer is incorrect. The correct release date is May 3, 2005. The model claims February 2013, which is not only wrong in year and date but does not provide any justification or partial correctness. It fails to answer the question.\n\nTotal rating: 1"
+    },
+    {
+        "origin": {
+            "question": "where does eye of the round roast come from",
+            "true_answer": "the rear leg of the cow",
+            "model_answer": "fact0 the round is divided into cuts including the eye of round bottom round and top round with or without the round bone femur and may include the knuckle sirloin tip depending on how the round is separated from the loin",
+            "similarity": 0.10234736651182175
+        },
+        "evaluation": "Feedback::\nEvaluation: The model answer correctly identifies that the eye of the round is a cut within the round and references its relation to other round cuts (and mentions the femur), which is accurate. However, it does not explicitly state the location as the rear/hind leg, making the response indirect rather than directly answering \"where does eye of the round roast come from.\"\nTotal rating: 3"
+    },
+    {
+        "origin": {
+            "question": "who sings the song let me love you",
+            "true_answer": "justin bieber",
+            "model_answer": "justin bieber",
+            "similarity": 0.9999999403953552
+        },
+        "evaluation": "Feedback::\nEvaluation: The model answer correctly identifies the singer as Justin Bieber; it matches the correct answer exactly, and is concise.\nTotal rating: 4"
+    },
+    {
+        "origin": {
+            "question": "who is the leading african producer of wool",
+            "true_answer": "south africa",
+            "model_answer": "the context does not provide information about the leading african producer of wool",
+            "similarity": 0.2922993302345276
+        },
+        "evaluation": "Feedback::\nEvaluation: The model completely fails to answer the question. It states there is no context, whereas the correct answer is South Africa. It misses the key fact and provides no useful information.\n\nTotal rating: 1"
+    },
+    {
+        "origin": {
+            "question": "how many inches is the iphone 5s screen",
+            "true_answer": "4 inch screen size",
+            "model_answer": "60",
+            "similarity": 0.16973057389259338
+        },
+        "evaluation": "Feedback::\nEvaluation: The model answer is completely incorrect. The correct screen size is 4 inches; the model output 60 has no relevance to the question and does not provide the correct unit or value.\n\nTotal rating: 1"
+    },
+    {
+        "origin": {
+            "question": "what was the first capital city of australia",
+            "true_answer": "melbourne",
+            "model_answer": "melbourne",
+            "similarity": 1.0
+        },
+        "evaluation": "Feedback::\nEvaluation: The model answer is correct; it directly matches the known correct answer \"melbourne\" and is concise.\nTotal rating: 4"
+    },
+    {
+        "origin": {
+            "question": "who won the womens 2017 ncaa basketball tournament",
+            "true_answer": "south carolina",
+            "model_answer": "jump to navigation search 2017 ncaa division i women s basketball tournament",
+            "similarity": 0.0836498886346817
+        },
+        "evaluation": "Feedback::\nEvaluation: The model answer does not provide the winner; it only includes a fragment referencing the tournament title and navigation text, with no mention of South Carolina or the actual champion. This is completely incorrect and unhelpful.\n\nTotal rating: 1"
+    },
+    {
+        "origin": {
+            "question": "how many episodes of ray donovan series 3 are there",
+            "true_answer": "12",
+            "model_answer": "2015",
+            "similarity": 0.4067689776420593
+        },
+        "evaluation": "Feedback::\nEvaluation: The model answer is completely incorrect. The question asks for the number of episodes in Ray Donovan Season 3 (which is 12), but the model responded with a year (2015) instead of the episode count. It does not answer the question or provide useful information.\nTotal rating: 1"
+    },
+    {
+        "origin": {
+            "question": "when does canada switch to daylight savings time",
+            "true_answer": "the second sunday of march",
+            "model_answer": "fact0 spring and fall fact1 html",
+            "similarity": 0.16772861778736115
+        },
+        "evaluation": "Feedback::\nEvaluation: The model answer does not provide the correct date. It ambiguously mentions \"spring and fall\" and includes the word \"html,\" offering no specific information about the second Sunday of March. This is largely unhelpful and incorrect.\nTotal rating: 1"
+    },
+    {
+        "origin": {
+            "question": "where does jack ryan live in patriot games",
+            "true_answer": "chesapeake bay south of annapolis in maryland",
+            "model_answer": "patriot games",
+            "similarity": 0.05479241535067558
+        },
+        "evaluation": "Feedback::\nEvaluation: The model answer is completely incorrect. It just repeats the title \"patriot games\" and does not provide the requested location. The correct answer is \"Chesapeake Bay south of Annapolis in Maryland.\"\nTotal rating: 1"
+    },
+    {
+        "origin": {
+            "question": "who gave the famous objective co relative theory",
+            "true_answer": "ts eliot",
+            "model_answer": "t",
+            "similarity": 0.7191371917724609
+        },
+        "evaluation": "Feedback::\nEvaluation: The model answer is incorrect; it provides only a lowercase 't' and fails to name T. S. Eliot, who is credited with the concept of the objective correlative. The correct answer should be \"T. S. Eliot\" (or \"TS Eliot\").\nTotal rating: 1"
+    },
+    {
+        "origin": {
+            "question": "where do bullets go when fired in the air",
+            "true_answer": "bullets discharged into the air fall back down to the ground",
+            "model_answer": "bullets fall back down to the ground",
+            "similarity": 0.8918702006340027
+        },
+        "evaluation": "Feedback:::\nEvaluation: The model answer correctly states that bullets fall back down to the ground after being fired into the air. It conveys the same essential information as the correct answer, though it omits the explicit phrase \"discharged into the air.\" This minor omission does not change the meaning.\nTotal rating: 4"
+    },
+    {
+        "origin": {
+            "question": "when do replays become available on nfl game pass",
+            "true_answer": "after their original live broadcasts end",
+            "model_answer": "starting with the 2015 season",
+            "similarity": 0.31319552659988403
+        },
+        "evaluation": "Feedback::\nEvaluation: The model's answer is incorrect. The correct information is that replays become available on NFL Game Pass after the original live broadcasts end. The model answer incorrectly states it depends on a specific season (2015), which does not address the timing of replays and is not accurate as a general rule.\n\nTotal rating: 1"
+    },
+    {
+        "origin": {
+            "question": "when is the new jurassic world game coming out",
+            "true_answer": "june 12 2018",
+            "model_answer": "unknown",
+            "similarity": 0.21137681603431702
+        },
+        "evaluation": "Feedback::\nEvaluation: The model answered \"unknown\", which is completely incorrect since there is a specific release date (June 12, 2018). It fails to provide the correct information and is not helpful.\nTotal rating: 1"
+    },
+    {
+        "origin": {
+            "question": "what was the alliance between great britian russia and france known as",
+            "true_answer": "the triple entente",
+            "model_answer": "francorussian alliance",
+            "similarity": 0.355167418718338
+        },
+        "evaluation": "Feedback::\nEvaluation: The model answer is incorrect. It suggests the Franco-Russian alliance, which did not include Great Britain. The correct term for the Britain-France-Russia alignment is the Triple Entente.\nTotal rating: 1"
+    },
+    {
+        "origin": {
+            "question": "when was the death penalty reinstated in oregon",
+            "true_answer": "1984",
+            "model_answer": "fact0 1978",
+            "similarity": 0.677661120891571
+        },
+        "evaluation": "Feedback::\nEvaluation: The model provided 1978, which is incorrect. The correct year is 1984. The answer is not helpful and includes an extraneous \"fact0\" token, making it confusing.\nTotal rating: 1"
+    },
+    {
+        "origin": {
+            "question": "what was icq as related to instant messaging",
+            "true_answer": "an instant messaging client that was first developed and popularized by the israeli company mirabilis in 1996",
+            "model_answer": "icq was an instant messaging client",
+            "similarity": 0.41941818594932556
+        },
+        "evaluation": "Feedback::\nEvaluation: The model answer correctly identifies ICQ as an instant messaging client, but it omits key historical details (developed/popularized by Mirabilis and the 1996 origin), making the response incomplete.\nTotal rating: 2"
+    },
+    {
+        "origin": {
+            "question": "when does season 3 of the riveras start",
+            "true_answer": "march 11 2018",
+            "model_answer": "2018",
+            "similarity": 0.7575111389160156
+        },
+        "evaluation": "Feedback::\nEvaluation: The model answer is incomplete; it only provides the year 2018, whereas the correct answer requires the full date: March 11, 2018. It misses the month and day information, making it not fully correct.\n\nTotal rating: 2"
+    },
+    {
+        "origin": {
+            "question": "chandra and bhaga river meets at the place",
+            "true_answer": "tandi in lahaul",
+            "model_answer": "fact0 the ravi is born in bara banghal kangra district as a joint stream formed by the glacier fead bhadal and tantgari",
+            "similarity": 0.08008211851119995
+        },
+        "evaluation": "Feedback::\nEvaluation: The model answer is completely off-topic and incorrect. It talks about the Ravi river's origin in Bara Banghal, Kangra district, formed by glaciers Bhadal and Tantgari, which has no relevance to where Chandra and Bhaga meet (Tandi in Lahaul). It fails to answer the question.\nTotal rating: 1"
+    },
+    {
+        "origin": {
+            "question": "when was the national flag of india adopted",
+            "true_answer": "during a meeting of the constituent assembly held on 22 july 1947",
+            "model_answer": "1931",
+            "similarity": 0.4141215682029724
+        },
+        "evaluation": "Feedback::\nEvaluation: The model answer is completely incorrect. The national flag of India was adopted by the Constituent Assembly on 22 July 1947; 1931 is not the adoption date (though related to earlier flag discussions). The provided answer misses the correct date and context.\n\nTotal rating: 1"
+    },
+    {
+        "origin": {
+            "question": "who is often associated with printing the first book using moveable type in germany",
+            "true_answer": "johannes gutenberg",
+            "model_answer": "johannes gutenberg",
+            "similarity": 1.0
+        },
+        "evaluation": "Feedback::\nEvaluation: The model answer is correct; Johannes Gutenberg is the correct person associated with movable type printing in Germany. It matches the provided correct answer and is concise.\nTotal rating: 4"
+    },
+    {
+        "origin": {
+            "question": "who are the artists in the traveling wilburys",
+            "true_answer": "bob dylan",
+            "model_answer": "the traveling wilburys",
+            "similarity": 0.40019476413726807
+        },
+        "evaluation": "Feedback::: \nEvaluation: The model did not provide the required list of artists. It answered with the band name instead of naming the members (Bob Dylan, George Harrison, Tom Petty, Roy Orbison, Jeff Lynne). This misses the key information the question asks for.\nTotal rating: 1"
+    },
+    {
+        "origin": {
+            "question": "who plays artemisia in 300 rise of an empire",
+            "true_answer": "eva green",
+            "model_answer": "none",
+            "similarity": 0.23422259092330933
+        },
+        "evaluation": "Feedback::\nEvaluation: The model answer is completely incorrect. Artemisia in 300: Rise of an Empire is played by Eva Green; the model responded with \"none,\" which fails to identify the correct actor.\nTotal rating: 1"
+    },
+    {
+        "origin": {
+            "question": "who is the most played artist on spotify",
+            "true_answer": "ed sheeran",
+            "model_answer": "drake",
+            "similarity": 0.47406813502311707
+        },
+        "evaluation": "Feedback:::\nEvaluation: The model answer is incorrect; the most played artist on Spotify is Ed Sheeran, not Drake. The response misses the correct artist.\nTotal rating: 1"
+    },
+    {
+        "origin": {
+            "question": "where is the opposition with jordan klepper filmed",
+            "true_answer": "hotel pennsylvania new york city",
+            "model_answer": "detroit free press",
+            "similarity": 0.17239850759506226
+        },
+        "evaluation": "Feedback::: The correct answer is \"Hotel Pennsylvania, New York City.\" The model answered \"Detroit Free Press,\" which is unrelated to the filming location. This is completely incorrect and unhelpful.\nEvaluation: 1\nTotal rating: 1"
+    },
+    {
+        "origin": {
+            "question": "who is young george bailey in it s a wonderful life",
+            "true_answer": "robert james anderson",
+            "model_answer": "young george bailey",
+            "similarity": 0.45463818311691284
+        },
+        "evaluation": "Feedback::\nEvaluation: The answer should identify the actor who played young George Bailey. The correct answer is Robert James Anderson. The model responded with \"young george bailey\" (the character) instead of the actor's name, so it is incorrect.\nTotal rating: 1"
+    },
+    {
+        "origin": {
+            "question": "who won the battle of stirling bridge 1297",
+            "true_answer": "the forces of andrew moray and william wallace",
+            "model_answer": "battle of stirling bridge",
+            "similarity": 0.27707183361053467
+        },
+        "evaluation": "Feedback::\nEvaluation: The model answer fails to identify the winner. It only states the event name (\"battle of stirling bridge\") instead of naming the victorious leaders (Andrew Moray and William Wallace). Therefore, it does not satisfy the prompt.\nTotal rating: 1"
+    },
+    {
+        "origin": {
+            "question": "who plays dylan in daddy s home 2",
+            "true_answer": "owen vaccaro",
+            "model_answer": "mel gibson",
+            "similarity": 0.4603274166584015
+        },
+        "evaluation": "Feedback:::\nEvaluation: The model answer is incorrect. The correct actor for Dylan in Daddy's Home 2 is Owen Vaccaro; Mel Gibson is not the actor for that role. The response misses the key information.\nTotal rating: 1"
+    },
+    {
+        "origin": {
+            "question": "where is the tablet of the ten commandments",
+            "true_answer": "in the ark of the covenant",
+            "model_answer": "the tablet of the ten commandments",
+            "similarity": 0.34630119800567627
+        },
+        "evaluation": "Feedback::\nEvaluation: The model answer is incorrect; it fails to specify the location. The correct answer is \"in the ark of the covenant.\" The provided answer only restates the object and does not address where it is.\nTotal rating: 1"
+    },
+    {
+        "origin": {
+            "question": "where does the chinatown bus stop in nyc",
+            "true_answer": "forsyth street at the foot of the manhattan bridge in the little fuzhou neighborhood within manhattan s chinatown",
+            "model_answer": "new york city",
+            "similarity": 0.1799706220626831
+        },
+        "evaluation": "Feedback::\nEvaluation: The model answer only states \"new york city,\" which is overly vague. The correct answer specifies an exact location (Forsyth Street at the foot of the Manhattan Bridge in the Little Fuzhou neighborhood of Manhattan's Chinatown). The model answer omits key details and is not useful for locating the bus stop.\nTotal rating: 2"
+    },
+    {
+        "origin": {
+            "question": "when did the right to buy scheme start",
+            "true_answer": "1980",
+            "model_answer": "fact0 2005",
+            "similarity": 0.47630900144577026
+        },
+        "evaluation": "Feedback::\nEvaluation: The model's answer is incorrect. The right to buy scheme started in 1980, but the model responded with 2005 (and an unclear \"fact0\" prefix), which does not address the question.\n\nTotal rating: 1"
+    },
+    {
+        "origin": {
+            "question": "how many players have scored 10000 runs in odi",
+            "true_answer": "11",
+            "model_answer": "10000",
+            "similarity": 0.5492833852767944
+        },
+        "evaluation": "Feedback::\nEvaluation: The model answer gives 10000 (the run total) instead of the number of players who have scored 10,000 ODI runs. The correct answer is 11 players; the model answer is incorrect.\nTotal rating: 1"
+    },
+    {
+        "origin": {
+            "question": "what is the movie new jersey drive about",
+            "true_answer": "joy riding black teenagers in 1990s newark new jersey",
+            "model_answer": "1995 crime drama film about joy riding black teenagers in 1990s newark new jersey",
+            "similarity": 0.7699549198150635
+        },
+        "evaluation": "Feedback:::\nEvaluation: The model answer correctly identifies the film's premise and context: joy riding by Black teenagers in 1990s Newark, New Jersey, and it notes the release year as 1995 and genre as a crime drama. This aligns exactly with the correct answer.\nTotal rating: 4"
+    },
+    {
+        "origin": {
+            "question": "who has won the most f1 grand prix",
+            "true_answer": "michael schumacher",
+            "model_answer": "michael schumacher",
+            "similarity": 1.0
+        },
+        "evaluation": "Feedback::\nEvaluation: The model answer is correct, matching the provided correct answer exactly. It succinctly states \"michael schumacher\" without extraneous text.\nTotal rating: 4"
+    },
+    {
+        "origin": {
+            "question": "latest series of keeping up with the kardashians",
+            "true_answer": "14",
+            "model_answer": "keeping up with the kardashians",
+            "similarity": 0.03623100742697716
+        },
+        "evaluation": "Feedback::\nEvaluation: The model answer does not provide the requested numeric season (14) and instead returns the show title. It completely misses the question\u2019s requirement.\n\nTotal rating: 1"
+    },
+    {
+        "origin": {
+            "question": "where does the saying keeping up with the jones come from",
+            "true_answer": "the comic strip keeping up with the joneses",
+            "model_answer": "in a comic strip",
+            "similarity": 0.6160410046577454
+        },
+        "evaluation": "Feedback::\nEvaluation: The model correctly states that the origin is a comic strip, but it fails to specify the exact strip name \"Keeping Up with the Joneses.\" It is correct but incomplete.\nTotal rating: 3"
+    },
+    {
+        "origin": {
+            "question": "who plays meredith quill in guardians of the galaxy 2",
+            "true_answer": "laura jane haddock",
+            "model_answer": "starz",
+            "similarity": 0.323943555355072
+        },
+        "evaluation": "Feedback::\nEvaluation: The model answered \"starz,\" which is completely incorrect and not related to the actress. The correct answer is Laura Haddock (also credited as Laura Jane Haddock). The response fails to identify the actor and provides no helpful information.\n\nTotal rating: 1"
+    },
+    {
+        "origin": {
+            "question": "who has the most catches in nfl history",
+            "true_answer": "jerry rice",
+            "model_answer": "1000",
+            "similarity": 0.21632350981235504
+        },
+        "evaluation": "Feedback::\nEvaluation: The model answer is completely incorrect. The question asks for the player with the most catches in NFL history, which is Jerry Rice. The model response \"1000\" provides a number with no relevance to the question and does not identify the player or provide the correct information. It fails to answer the prompt at all.\n\nTotal rating: 1"
+    },
+    {
+        "origin": {
+            "question": "locations for the film an englishman who went up a hill",
+            "true_answer": "llanrhaeadr ym mochnant and llansilin in powys",
+            "model_answer": "locations england",
+            "similarity": 0.08156882226467133
+        },
+        "evaluation": "Feedback:::\nEvaluation: The model answer is completely incorrect. It states \"locations england\" whereas the correct locations are Llanrhaeadr ym Mochnant and Llansilin in Powys, Wales. It fails to provide the specific Welsh locations and misidentifies the country.\nTotal rating: 1"
+    },
+    {
+        "origin": {
+            "question": "when was the last time mount ruapehu erupted",
+            "true_answer": "at about 8 20 pm on 25 september 2007",
+            "model_answer": "november 1995",
+            "similarity": 0.41986411809921265
+        },
+        "evaluation": "Feedback::\nEvaluation: The model answer is incorrect. The last eruption occurred on 25 September 2007 at about 8:20 pm, not November 1995. The response misses the key date entirely and provides an outdated eruption date, making it unhelpful for the question.\nTotal rating: 1"
+    },
+    {
+        "origin": {
+            "question": "where was 2017 beauty and the beast filmed",
+            "true_answer": "shepperton studios in surrey united kingdom",
+            "model_answer": "disney",
+            "similarity": 0.09812436997890472
+        },
+        "evaluation": "Feedback::\nEvaluation: The model answer is incorrect. It should provide the filming location (e.g., Shepperton Studios in Surrey, United Kingdom). \"disney\" does not answer the question and offers no relevant information about filming locations.\nTotal rating: 1"
+    },
+    {
+        "origin": {
+            "question": "what proposition made the insurance commissioner an elected position",
+            "true_answer": "proposition 103",
+            "model_answer": "proposition 103 in 1988",
+            "similarity": 0.7463912963867188
+        },
+        "evaluation": "Feedback::\nEvaluation: The model answer correctly identifies \"proposition 103\" as the proposition. It adds the year \"in 1988,\" which is correct context and does not contradict the answer. Overall, it fully answers the question with a small but harmless extra detail.\nTotal rating: 4"
+    },
+    {
+        "origin": {
+            "question": "where is the 7th game of the world series played",
+            "true_answer": "at the site of the team holding the home advantage across the series",
+            "model_answer": "extra innings",
+            "similarity": 0.16525918245315552
+        },
+        "evaluation": "Feedback::\nEvaluation: The model answer \"extra innings\" is completely unrelated to the question. The correct answer states that Game 7 is played at the home site of the team with home-field advantage across the series (i.e., the team with the advantage hosts Game 7). The model failed to address location or home-field concept and instead answered with a game rule unrelated to the question.\nTotal rating: 1"
+    },
+    {
+        "origin": {
+            "question": "who is the valley of the dolls based on",
+            "true_answer": "judy garland",
+            "model_answer": "jacqueline susann",
+            "similarity": 0.6417632699012756
+        },
+        "evaluation": "Feedback::\nEvaluation: The model answered with \"Jacqueline Susann,\" which is the author of the novel, not the person the story is based on. The correct answer is Judy Garland. This is a completely incorrect response.\nTotal rating: 1"
+    },
+    {
+        "origin": {
+            "question": "who was the actor who played crocodile dundee",
+            "true_answer": "paul hogan",
+            "model_answer": "mick crocodile dundee",
+            "similarity": 0.32491570711135864
+        },
+        "evaluation": "Feedback:::\nEvaluation: The model answered \"mick crocodile dundee,\" which refers to the character, not the actor. The correct actor is Paul Hogan. Therefore the answer is incorrect and incomplete.\nTotal rating: 1"
+    },
+    {
+        "origin": {
+            "question": "where are trigger points located in the body",
+            "true_answer": "in the fascia surrounding skeletal muscle",
+            "model_answer": "fact0 muscles",
+            "similarity": 0.4947710633277893
+        },
+        "evaluation": "Feedback::\nEvaluation: The correct location is in the fascia surrounding skeletal muscle. The model answer \"fact0 muscles\" is nonsensical and does not address the location or concept, thus it is completely incorrect.\nTotal rating: 1"
+    },
+    {
+        "origin": {
+            "question": "ambulatory is a term used in health care to describe",
+            "true_answer": "medical care provided on an outpatient basis including diagnosis observation consultation treatment intervention and rehabilitation services",
+            "model_answer": "medical care provided on an outpatient basis",
+            "similarity": 0.6170223951339722
+        },
+        "evaluation": "Feedback::\nThe model correctly identifies ambulatory as outpatient medical care but omits the broader scope listed in the correct answer (diagnosis, observation, consultation, treatment, intervention, and rehabilitation services). It\u2019s partially correct but incomplete.\n\nEvaluation: 3\nTotal rating: 3"
+    },
+    {
+        "origin": {
+            "question": "who was the ottoman governor who led egypt in the years following the napoleonic wars",
+            "true_answer": "ismail pasha and tewfik pasha",
+            "model_answer": "husrev pasha",
+            "similarity": 0.3581370413303375
+        },
+        "evaluation": "Feedback::\nEvaluation: The model answer \"husrev pasha\" is incorrect. The question asks for the Ottoman governors who led Egypt after the Napoleonic Wars, and the correct names are Ismail Pasha and Tevfik Pasha. Husrev Pasha does not match and omits both correct figures.\nTotal rating: 1"
+    },
+    {
+        "origin": {
+            "question": "what role does the president play in foreign affairs",
+            "true_answer": "negotiates treaties with foreign nations",
+            "model_answer": "the president plays a role in foreign affairs",
+            "similarity": 0.38783353567123413
+        },
+        "evaluation": "Feedback::\nEvaluation: The model's answer is vague and does not specify the key action of negotiating treaties with foreign nations, which is the correct role described. It misses the essential detail required.\nTotal rating: 2"
+    },
+    {
+        "origin": {
+            "question": "who won season 8 of america s next top model",
+            "true_answer": "20 year old jaslene gonzalez from chicago illinois",
+            "model_answer": "jaslene gonzalez",
+            "similarity": 0.1947099268436432
+        },
+        "evaluation": "Feedback::\nEvaluation: The model correctly identifies the winner's name as jaslene gonzalez. However, the \"correct answer\" includes additional details (age and city), which the model omits. For the direct question \u201cwho won,\u201d the name is correct and sufficient, but it isn\u2019t fully aligned with the complete answer format.\nTotal rating: 3"
+    },
+    {
+        "origin": {
+            "question": "the first political society started under british rule in india was",
+            "true_answer": "the british indian association",
+            "model_answer": "bengal british india society",
+            "similarity": 0.8248651623725891
+        },
+        "evaluation": "Feedback::\nThe model answer incorrectly names the organization. The first political society started under British rule in India is the British Indian Association. \"Bengal British India Society\" (or similar variants) refers to a different or misnamed entity, so it does not match the correct answer.\n\nEvaluation: 1\n\nTotal rating: 1"
+    },
+    {
+        "origin": {
+            "question": "when s the last time philly won the superbowl",
+            "true_answer": "2017",
+            "model_answer": "2014",
+            "similarity": 0.7475869655609131
+        },
+        "evaluation": "Feedback::\nEvaluation: The model answer is incorrect. The last time the Philadelphia Eagles won the Super Bowl was for the 2017 season (the game occurred in February 2018). The given answer 2014 is wrong.\nTotal rating: 1"
+    },
+    {
+        "origin": {
+            "question": "where does the term pop music come from",
+            "true_answer": "originated in britain in the mid1950s as a description for rock and roll",
+            "model_answer": "fact0 pop art",
+            "similarity": 0.05926738306879997
+        },
+        "evaluation": "Feedback::\nEvaluation: The model answer \"fact0 pop art\" is incorrect and irrelevant. It does not address the origin of the term \"pop music,\" fails to mention Britain or the mid-1950s, and confuses pop music with pop art. It provides no useful or accurate information.\nTotal rating: 1"
+    },
+    {
+        "origin": {
+            "question": "is the right to life liberty and the pursuit of happiness in the constitution",
+            "true_answer": "chapter iii article 13 of the 1947 constitution of japan",
+            "model_answer": "fact0 life liberty and the pursuit of happiness fact1 the second paragraph of the first article in the declaration of independence contains the phrase life liberty and the pursuit of happiness fact2 the fifth amendment and fourteenth amendment to the united states constitution declare that governments can not deprive any person of life liberty or property",
+            "similarity": 0.2590629458427429
+        },
+        "evaluation": "Feedback::\nEvaluation: The correct answer is Japan's 1947 Constitution, Chapter III, Article 13. The model answer instead references the US Declaration of Independence and US constitutional amendments, and does not identify the Japanese constitutional provision. It provides irrelevant information and fails to answer the question.\n\nTotal rating: 1"
+    },
+    {
+        "origin": {
+            "question": "when did equus first appear in fossil record",
+            "true_answer": "1820s",
+            "model_answer": "1820s",
+            "similarity": 1.0000001192092896
+        },
+        "evaluation": "Feedback:::\nEvaluation: The model answer exactly matches the correct answer (\"1820s\"). It is concise and directly addresses the question with no extraneous information.\nTotal rating: 4"
+    },
+    {
+        "origin": {
+            "question": "where was percy jackson and the olympians filmed",
+            "true_answer": "vancouver",
+            "model_answer": "jump up percy jackson the olympians the lightning thief",
+            "similarity": 0.04510476440191269
+        },
+        "evaluation": "Feedback::\nEvaluation: The model answer is completely incorrect. It does not provide the location (Vancouver) and instead outputs unrelated text (\"jump up percy jackson the olympians the lightning thief\"), which does not answer the question.\nTotal rating: 1"
+    },
+    {
+        "origin": {
+            "question": "when was the last amendment to the constitution passed",
+            "true_answer": "may 5 1992",
+            "model_answer": "december 5 1933",
+            "similarity": 0.6707267761230469
+        },
+        "evaluation": "Feedback::\nEvaluation: The model provided December 5, 1933, which corresponds to the 21st Amendment, not the last amendment. The correct date is May 5, 1992 (the 27th Amendment). Therefore the answer is completely incorrect.\n\nTotal rating: 1"
+    },
+    {
+        "origin": {
+            "question": "sending money home to the native country is an example of",
+            "true_answer": "remittance",
+            "model_answer": "fact1",
+            "similarity": 0.2821553349494934
+        },
+        "evaluation": "Feedback::\nEvaluation: The model answer is completely incorrect; it does not provide the correct term \"remittance\" and offers an unrelated placeholder \"fact1.\"\nTotal rating: 1"
+    },
+    {
+        "origin": {
+            "question": "how many points did lebron james scored in his career",
+            "true_answer": "31038",
+            "model_answer": "2015",
+            "similarity": 0.4440380036830902
+        },
+        "evaluation": "Feedback::\nEvaluation: The model stated 2015, which is not equal to 31038. It is a completely wrong value for LeBron James's career points and provides no correct information.\n\nTotal rating: 1"
+    },
+    {
+        "origin": {
+            "question": "what is foreign account tax compliance act fatca",
+            "true_answer": "a 2010 united states federal law requiring all nonus foreign financial institutions ffis to search their records for customers with indicia of us person status such as a us place of birth and to report the assets and identities of such persons to the us department of the treasury",
+            "model_answer": "fact0 the fatca foreign account tax compliance act fact1 jump up foreign account tax compliance act fatca u fact2 jump up the foreign account tax compliance act fatca pdf fact3 what you need to know about foreign account tax compliance act s fatca impact on nonu fact",
+            "similarity": 0.30201828479766846
+        },
+        "evaluation": "Feedback::\nEvaluation: The model answer is largely incoherent and does not provide the required definition. It only contains fragmented phrases and stray tokens (e.g., \"fact0\", \"jump up\", \"pdf\") and fails to explain FATCA as the 2010 law requiring non-US FFIs to identify US persons and report assets/identities to the U.S. Treasury. It does not capture the key elements of the correct answer.\nTotal rating: 1"
+    },
+    {
+        "origin": {
+            "question": "who was charlie writing to in perks of being a wallflower movie",
+            "true_answer": "an unknown recipient",
+            "model_answer": "stephen chbosky",
+            "similarity": 0.14522171020507812
+        },
+        "evaluation": "Feedback::\nEvaluation: The model answer is completely incorrect. The question asks who Charlie is writing to in The Perks of Being a Wallflower movie. The correct answer is \"an unknown recipient\" (the letters are to an unnamed reader/friend). The model answered \"Stephen Chbosky,\" who is the author, not the recipient of Charlie's letters. \nTotal rating: 1"
+    },
+    {
+        "origin": {
+            "question": "who won the men s single title of australia open on 1 february 2015",
+            "true_answer": "djokovic",
+            "model_answer": "1 novak djokovic 2 andy murray 3 tim hammer 4 rafael nadal 5 andrew murray 6 novak djokovic 7 andy murray 8 tim hammer 9 rafael nadal 10 andrew murray",
+            "similarity": 0.15696564316749573
+        },
+        "evaluation": "Feedback::\nEvaluation: The correct answer is Djokovic. The model answer lists a messy set of players with duplicates and some incorrect/irrelevant entries (e.g., \"tim hammer\"), and does not cleanly or unambiguously provide the winner. It does include \"novak djokovic\", but overall it fails to deliver a clear, correct, and concise response.\n\nTotal rating: 2"
+    },
+    {
+        "origin": {
+            "question": "who played mr willoughby in sense and sensibility",
+            "true_answer": "matthew gregory wise",
+            "model_answer": "john willoughby",
+            "similarity": 0.32067984342575073
+        },
+        "evaluation": "Feedback::\nEvaluation: The model answer incorrectly names the character (John Willoughby) instead of giving the actor's name. The correct actor is Matthew Gregory Wise.\nTotal rating: 1"
+    },
+    {
+        "origin": {
+            "question": "when is star vs the forces of evil coming back 2018",
+            "true_answer": "march 3 2018",
+            "model_answer": "this is a tv movie coming this summer",
+            "similarity": 0.18773749470710754
+        },
+        "evaluation": "Feedback::\nEvaluation: The model answer fails to provide the correct air date. It states a vague, incorrect timeframe and mischaracterizes the show as a TV movie, offering no specific date (March 3, 2018). It misses the essential detail required by the question.\nTotal rating: 1"
+    },
+    {
+        "origin": {
+            "question": "when did the soviet union start and end",
+            "true_answer": "in eurasia",
+            "model_answer": "fact0 1929",
+            "similarity": 0.2385256588459015
+        },
+        "evaluation": "Feedback::\nEvaluation: The model answer is completely incorrect. The question asks for the start and end dates of the Soviet Union, but the model provides only a single year (1929) and does not address the formation (1922) or dissolution (1991) of the USSR. The correct answer should be 1922\u20131991.\nTotal rating: 1"
+    },
+    {
+        "origin": {
+            "question": "where are the hormones of the anterior pituitary created",
+            "true_answer": "the pars distalis distal part",
+            "model_answer": "the anterior pituitary",
+            "similarity": 0.39741334319114685
+        },
+        "evaluation": "Feedback::\nEvaluation: The model answer says \"the anterior pituitary,\" which is not the precise location. The correct site is the pars distalis (the distal part) of the anterior pituitary where the hormone-secreting cells reside. The answer is incomplete and not accurate.\nTotal rating: 2"
+    },
+    {
+        "origin": {
+            "question": "where was one direction what makes you beautiful filmed",
+            "true_answer": "malibu california",
+            "model_answer": "unknown",
+            "similarity": 0.21328452229499817
+        },
+        "evaluation": "Feedback::\nEvaluation: The correct answer is Malibu, California, but the model answered \"unknown.\" It fails to provide the correct filming location.\n\nTotal rating: 1"
+    },
+    {
+        "origin": {
+            "question": "when did they start vaccinating for whooping cough",
+            "true_answer": "the 1940s",
+            "model_answer": "1940s",
+            "similarity": 0.9663985967636108
+        },
+        "evaluation": "Feedback::\nEvaluation: The model answer is exactly correct and concise, matching the correct answer without extra details.\nTotal rating: 4"
+    },
+    {
+        "origin": {
+            "question": "who is the new york state senate majority leader",
+            "true_answer": "john j flanagan",
+            "model_answer": "fact0 majority leader of the new york state senate fact1 john j fact2 president fact3 senate tied fact4 lieutenant governor fact5 president pro tempore fact6 majority leadership fact7 phtitlemajority_leader_of_the_new_york",
+            "similarity": 0.19003987312316895
+        },
+        "evaluation": "Feedback::\nEvaluation: The model answer fails to clearly state the correct person. It only provides fragments like \"fact1 john j\" without the surname Flanagan, and includes irrelevant or incorrect associations (president, lieutenant governor, etc.). Overall, it does not provide a clear or correct answer to \"who is the New York State Senate majority leader.\"\n\nTotal rating: 2"
+    },
+    {
+        "origin": {
+            "question": "who played cory s older brother on boy meets world",
+            "true_answer": "will friedle",
+            "model_answer": "eric matthick",
+            "similarity": 0.35791897773742676
+        },
+        "evaluation": "Feedback::\nThe model answer is incorrect. The correct response is Will Friedle, who played Cory's older brother Eric Matthews on Boy Meets World. The given answer \"eric matthick\" is not the actor and misidentifies the role.\n\nEvaluation: 1\n\nTotal rating: 1"
+    },
+    {
+        "origin": {
+            "question": "who sings i want to be a rockstar",
+            "true_answer": "canadian rock band nickelback",
+            "model_answer": "the song has been compared to earlier satirical odes to the rockstar lifestyle including dire straits money for nothing 1985 joe walsh s life s been good 1978 dr",
+            "similarity": 0.20882847905158997
+        },
+        "evaluation": "Feedback::\nEvaluation: The question asks who sings \"I Want to Be a Rock Star.\" The correct answer is Nickelback. The model answer does not identify the singer and instead provides irrelevant comparisons to other songs/artists, making it incomplete and incorrect.\nTotal rating: 1"
+    },
+    {
+        "origin": {
+            "question": "who did virginia cavaliers lose to in basketball this year",
+            "true_answer": "umbc",
+            "model_answer": "virginia",
+            "similarity": 0.6613017320632935
+        },
+        "evaluation": "Feedback::\nThe model answered \"virginia\" which is the Cavaliers themselves, not the opponent. The correct answer is \"UMBC.\" So the response is incorrect.\n\nEvaluation: 1\nTotal rating: 1"
+    },
+    {
+        "origin": {
+            "question": "who was the king of england in 1756",
+            "true_answer": "george ii",
+            "model_answer": "george i elector of hanover",
+            "similarity": 0.5965994000434875
+        },
+        "evaluation": "Feedback::\nEvaluation: The model answer names George I (elector of Hanover) as the king in 1756, which is incorrect. The correct monarch in 1756 was George II (reigned 1727\u20131760). The response is entirely off the target date.\nTotal rating: 1"
+    },
+    {
+        "origin": {
+            "question": "what was the full name of the titanic",
+            "true_answer": "rms titanic",
+            "model_answer": "titanic",
+            "similarity": 0.8878493309020996
+        },
+        "evaluation": "Feedback::\nEvaluation: The model answer \"titanic\" omits the official prefix \"RMS\" and thus does not provide the full name \"RMS Titanic.\" It is incorrect and not fully informative.\nTotal rating: 1"
+    },
+    {
+        "origin": {
+            "question": "to whom do the powers not given to the federal government by the constitution go",
+            "true_answer": "the states or the people",
+            "model_answer": "the states",
+            "similarity": 0.7368680238723755
+        },
+        "evaluation": "Feedback::\nEvaluation: The model answer is incomplete. It says \"the states,\" which is only part of the correct answer. The full correct answer is \"the states or the people\" per the Tenth Amendment. By omitting \"the people,\" the response misses a key component of the constitutional allocation of powers.\nTotal rating: 2"
+    },
+    {
+        "origin": {
+            "question": "which president of the united states was a boy scout",
+            "true_answer": "gerald ford",
+            "model_answer": "cannot be determined",
+            "similarity": 0.11410711705684662
+        },
+        "evaluation": "Feedback::\nEvaluation: The model answer is incorrect. Gerald Ford was a Boy Scout (Eagle Scout), so the correct answer is Gerald Ford. The response \"cannot be determined\" provides no useful information and misses a key factual detail.\nTotal rating: 1"
+    },
+    {
+        "origin": {
+            "question": "where does the last name orozco originate from",
+            "true_answer": "spanish basque origin",
+            "model_answer": "mexican basque",
+            "similarity": 0.7511858940124512
+        },
+        "evaluation": "Feedback::\nEvaluation: The correct origin is Spanish Basque origin. The model answered \"mexican basque,\" which is incorrect and misleading\u2014the origin is Basque from Spain, not Mexico. The response is completely off-target.\nTotal rating: 1"
+    },
+    {
+        "origin": {
+            "question": "which river separates the bronx in new york city from manhattan island",
+            "true_answer": "harlem river",
+            "model_answer": "bronx river flows into the east river",
+            "similarity": 0.550849199295044
+        },
+        "evaluation": "Feedback::\nEvaluation: The model answer is incorrect. It claims the Bronx River flows into the East River, whereas the Harlem River is the body of water that separates the Bronx from Manhattan. The answer completely misses the correct river and provides false information about geography.\nTotal rating: 1"
+    },
+    {
+        "origin": {
+            "question": "i like the way you move video cast",
+            "true_answer": "fonzworth bentley",
+            "model_answer": "none",
+            "similarity": 0.19746625423431396
+        },
+        "evaluation": "Feedback::\nEvaluation: The model answer is completely incorrect. The question asks for the video cast of \"I Like the Way You Move,\" with the correct answer being \"fonzworth bentley.\" The model responded with \"none,\" which provides no useful information and misses the correct answer entirely.\nTotal rating: 1"
+    },
+    {
+        "origin": {
+            "question": "what is the full scientific name for the e coli bacteria",
+            "true_answer": "escherichia coli",
+            "model_answer": "cherichia coli migula 1895 castellani and chalmers 1919",
+            "similarity": 0.4239034056663513
+        },
+        "evaluation": "Feedback::\nEvaluation: The model answer is somewhat helpful because it includes the authorities (Migula 1895; Castellani & Chalmers 1919), which are part of the full scientific name. However, it has key formatting errors: it starts with \"cherichia\" instead of \"Escherichia\" (capitalization and missing initial E), and it omits the standard parentheses around the original author and year. The widely accepted full name is Escherichia coli (Migula 1895) Castellani & Chalmers 1919. Because of these formatting issues, it\u2019s not an exact match, though it contains largely correct information.\n\nTotal rating: 3"
+    },
+    {
+        "origin": {
+            "question": "when was the rock and roll hall of fame built in cleveland",
+            "true_answer": "september 1995",
+            "model_answer": "1987",
+            "similarity": 0.6331746578216553
+        },
+        "evaluation": "Feedback::\nEvaluation: The model answer is incorrect; the Rock and Roll Hall of Fame in Cleveland opened in September 1995. The model's answer of 1987 does not match the correct date.\nTotal rating: 1"
+    },
+    {
+        "origin": {
+            "question": "who acts as the chairman of the election commission",
+            "true_answer": "achal kumar jyoti",
+            "model_answer": "the president",
+            "similarity": 0.319335401058197
+        },
+        "evaluation": "Feedback::\nEvaluation: The correct answer is \"Achal Kumar Jyoti.\" The model answered \"the president,\" which is incorrect. It does not match the required factual answer and provides no partial credit.\n\nTotal rating: 1"
+    },
+    {
+        "origin": {
+            "question": "who played mrs warboys in one foot in the grave",
+            "true_answer": "doreen mantle",
+            "model_answer": "mantle",
+            "similarity": 0.8281395435333252
+        },
+        "evaluation": "Feedback::\nEvaluation: The model answer \"mantle\" correctly identifies the actor's surname but omits the required first name. The expected full answer is \"Doreen Mantle.\" Because it is incomplete and not the exact full name, the response is only partially correct and not fully helpful.\nTotal rating: 2"
+    },
+    {
+        "origin": {
+            "question": "who wrote the song always be humble and kind",
+            "true_answer": "lori mckenna",
+            "model_answer": "lori mckenna",
+            "similarity": 0.9999999403953552
+        },
+        "evaluation": "Feedback::\nEvaluation: The model correctly identified Lori McKenna as the writer of \"Always Be Humble and Kind.\" It is exact and concise.\nTotal rating: 4"
+    },
+    {
+        "origin": {
+            "question": "where does arsenic and old lace take place",
+            "true_answer": "brooklyn new york",
+            "model_answer": "1939 on broadway",
+            "similarity": 0.16352272033691406
+        },
+        "evaluation": "Feedback::\nEvaluation: The model answer is incorrect. It provides a production year and Broadway rather than the setting. The correct setting is Brooklyn, New York.\nTotal rating: 1"
+    },
+    {
+        "origin": {
+            "question": "what is the second book in the alchemyst series",
+            "true_answer": "the magician",
+            "model_answer": "the enchantress",
+            "similarity": 0.8374948501586914
+        },
+        "evaluation": "Feedback::\nEvaluation: The model answer is incorrect. The second book in The Secrets of the Immortal Nicholas Flamel (the Alchemyst series) is \"The Magician.\" The model provided \"The Enchantress,\" which is the fifth book in the series. \n\nTotal rating: 2"
+    },
+    {
+        "origin": {
+            "question": "bowler to take hattrick in both inning in test match",
+            "true_answer": "leg spinner jimmy matthews",
+            "model_answer": "fact0 merv hughes",
+            "similarity": 0.33068040013313293
+        },
+        "evaluation": "Feedback::\nEvaluation: The model answer is completely incorrect. The correct bowler is Jimmy Matthews (leg spinner); the model answered Merv Hughes, which is wrong.\nTotal rating: 1"
+    },
+    {
+        "origin": {
+            "question": "what is the width of a cricket bat",
+            "true_answer": "no more than 425 inches 108 mm",
+            "model_answer": "none",
+            "similarity": 0.21571743488311768
+        },
+        "evaluation": "Feedback::\nEvaluation: The model provided no answer at all (\"none\"), which is completely unhelpful. The correct width is no more than 4.25 inches (108 mm). The response fails to address the question.\nTotal rating: 1"
+    },
+    {
+        "origin": {
+            "question": "who played alex cross in along came a spider",
+            "true_answer": "morgan freeman",
+            "model_answer": "michael wincott",
+            "similarity": 0.4026404023170471
+        },
+        "evaluation": "Feedback::\nEvaluation: The model answer is incorrect; Morgan Freeman is the actor who played Alex Cross in Along Came a Spider, not Michael Wincott.\nTotal rating: 1"
+    },
+    {
+        "origin": {
+            "question": "who was the first signatory of the israeli declaration of independence",
+            "true_answer": "david ben gurion",
+            "model_answer": "ben gurion",
+            "similarity": 0.6399520635604858
+        },
+        "evaluation": "Feedback::\nEvaluation: The model answer correctly identifies David Ben-Gurion as the first signatory. It states \"ben gurion,\" which is the same person (case variation only). No essential information is missing.\nTotal rating: 4"
+    },
+    {
+        "origin": {
+            "question": "who came up with the first working periodic table",
+            "true_answer": "dmitri mendeleev",
+            "model_answer": "lothar meyer",
+            "similarity": 0.6807698011398315
+        },
+        "evaluation": "Feedback::\nEvaluation: The model answer identifies Lothar Meyer, which is not the correct attribution for the first working periodic table. The widely accepted answer is Dmitri Mendeleev. Meyer contributed independently, but the question asks for the first working periodic table\u2019s origin, which is Mendeleev. Therefore the answer is incorrect.\n\nTotal rating: 1"
+    },
+    {
+        "origin": {
+            "question": "when did cybermen first appear in doctor who",
+            "true_answer": "1966",
+            "model_answer": "fact0 1966",
+            "similarity": 0.7931726574897766
+        },
+        "evaluation": "Feedback::\nEvaluation: The model answer provides the correct year (1966). The extra \"fact0\" is extraneous but does not change the correctness.\nTotal rating: 4"
+    },
+    {
+        "origin": {
+            "question": "communities of similar organisms found in a particular environment are called",
+            "true_answer": "species",
+            "model_answer": "communities",
+            "similarity": 0.3914267122745514
+        },
+        "evaluation": "Feedback::\nEvaluation: The model answer is incorrect. The question asks for the term for \"communities of similar organisms found in a particular environment,\" with the correct answer being \"species.\" The model answered \"communities,\" which does not match the requested term and misidentifies the concept (species vs. community).\nTotal rating: 1"
+    },
+    {
+        "origin": {
+            "question": "who plays scrooge mcduck in the new ducktales",
+            "true_answer": "david tennant",
+            "model_answer": "david tennant",
+            "similarity": 1.0
+        },
+        "evaluation": "Feedback::\nEvaluation: The model answer exactly matches the correct answer, identifying David Tennant as the actor playing Scrooge McDuck in the new DuckTales. It is concise and correct.\n\nTotal rating: 4"
+    },
+    {
+        "origin": {
+            "question": "who wrote i m in the mood for dancing",
+            "true_answer": "ben findon mike myers and bob puzey",
+            "model_answer": "ben findon mike myers and bob puzey",
+            "similarity": 1.0
+        },
+        "evaluation": "Feedback::\nEvaluation: The model answer exactly matches the correct answer: \"ben findon mike myers and bob puzey.\" It is correct and complete.\nTotal rating: 4"
+    },
+    {
+        "origin": {
+            "question": "most passing yards in nfl history in a game",
+            "true_answer": "norm van brocklin",
+            "model_answer": "7",
+            "similarity": 0.16779905557632446
+        },
+        "evaluation": "Feedback::\nEvaluation: The model answer is completely incorrect. The question asks for the player with the most passing yards in a single NFL game (Norm van Brocklin, 554 yards). The model provided \"7,\" which is not a relevant or correct answer.\nTotal rating: 1"
+    },
+    {
+        "origin": {
+            "question": "how many world series wins does the dodgers have",
+            "true_answer": "6",
+            "model_answer": "six",
+            "similarity": 0.9298223853111267
+        },
+        "evaluation": "Feedback::\nEvaluation: The model answer correctly conveys the correct count (six), albeit in word form. It matches the correct answer (6) and is fully accurate.\nTotal rating: 4"
+    },
+    {
+        "origin": {
+            "question": "who won the nobel peace prize for 2017",
+            "true_answer": "the international campaign to abolish nuclear weapons ican",
+            "model_answer": "ican",
+            "similarity": 0.15677793323993683
+        },
+        "evaluation": "Feedback::\nEvaluation: The model answer correctly identifies the winner as ICAN, but it only provides the acronym and omits the full name (\"the International Campaign to Abolish Nuclear Weapons\"). It's essentially correct but not fully complete.\nTotal rating: 3"
+    },
+    {
+        "origin": {
+            "question": "why did the colonists have a problem with the tea act of 1773",
+            "true_answer": "because they believed that it violated their rights as englishmen to no taxation without representation that is to be taxed only by their own elected representatives and not by a british parliament in which they were not represented",
+            "model_answer": "to put tea into britain",
+            "similarity": 0.2998409569263458
+        },
+        "evaluation": "Feedback::\nEvaluation: The model answer is completely incorrect and irrelevant. It does not address taxation or representation, nor the Tea Act\u2019s political significance. It fails to explain why colonists objected to the Act.\n\nTotal rating: 1"
+    },
+    {
+        "origin": {
+            "question": "where does cleavage of the peptide bond by chymotrypsin occur",
+            "true_answer": "where the side chain of the amino acid n terminal to the scissile amide bond the p position is a large hydrophobic amino acid tyrosine tryptophan and phenylalanine",
+            "model_answer": "in positions arg15 ile16 and produces \u03c0 chymotrypsin",
+            "similarity": 0.19974008202552795
+        },
+        "evaluation": "Feedback::\nEvaluation: The model answer is completely incorrect. It mentions specific residues (Arg15, Ile16) and \u201cproduces \u03c0 chymotrypsin,\u201d which are irrelevant and nonsensical in this context. It fails to state the actual rule: chymotrypsin cleaves on the C-terminal side of bulky hydrophobic/aromatic residues (Phe, Tyr, Trp) at the P1 position of the scissile bond.\n\nTotal rating: 1"
+    },
+    {
+        "origin": {
+            "question": "how long did it take to build the great pyramid of egypt",
+            "true_answer": "20 year period",
+            "model_answer": "unknown",
+            "similarity": 0.18052741885185242
+        },
+        "evaluation": "Feedback::\nEvaluation: The model's answer is completely unhelpful. It should have stated the commonly cited duration of about 20 years; answering \"unknown\" is incorrect and does not address the question.\nTotal rating: 1"
+    },
+    {
+        "origin": {
+            "question": "which is the world s largest company in terms of revenue",
+            "true_answer": "walmart",
+            "model_answer": "walmart",
+            "similarity": 0.9999999403953552
+        },
+        "evaluation": "Feedback::\nEvaluation: The model answer correctly identifies Walmart as the world's largest company by revenue. It matches the correct answer exactly (case-insensitive). The response is concise and correct.\nTotal rating: 4"
+    },
+    {
+        "origin": {
+            "question": "where do the secretory cells of endocrine glands secrete their products",
+            "true_answer": "epithelial surface",
+            "model_answer": "fact0 endocrine glands secrete products directly into the bloodstream",
+            "similarity": 0.17012563347816467
+        },
+        "evaluation": "Feedback::\nEvaluation: The model answer states that endocrine glands secrete into the bloodstream, which is the correct physiological statement. However, the provided \"Correct answer\" in the prompt says \"epithelial surface,\" which is incorrect for endocrine glands. Since the evaluation should be based on the given correct answer, the model\u2019s answer does not match the ground truth. If judging by real physiology, the model answer would be correct.\nTotal rating: 1"
+    },
+    {
+        "origin": {
+            "question": "where did the cosbys live in new york",
+            "true_answer": "brooklyn heights new york at 10 stigwood avenue",
+            "model_answer": "brooklyn new york",
+            "similarity": 0.6883714199066162
+        },
+        "evaluation": "Feedback::\nEvaluation: The model answer only states \"Brooklyn, New York,\" which is partially correct (the Cosbys did live in Brooklyn) but omits the neighborhood (Brooklyn Heights) and the exact street address (10 Stigwood Avenue). It is incomplete compared to the correct answer.\nTotal rating: 2"
+    },
+    {
+        "origin": {
+            "question": "where did the beer hall putsch take place",
+            "true_answer": "munich bavaria",
+            "model_answer": "munich bavaria germany",
+            "similarity": 0.6927381157875061
+        },
+        "evaluation": "Feedback::\nEvaluation: The model answer correctly states Munich, Bavaria, and even adds Germany as the country. This is accurate and more specific, matching or exceeding the completeness of the correct answer.\nTotal rating: 4"
+    },
+    {
+        "origin": {
+            "question": "who said beware of the ides of march",
+            "true_answer": "a haruspex named spurinna",
+            "model_answer": "plutarch",
+            "similarity": 0.46893492341041565
+        },
+        "evaluation": "Feedback::\nEvaluation: The model answer is incorrect. The warning \u201cBeware the Ides of March\u201d is attributed to Spurinna, a haruspex, not to Plutarch. Plutarch is a historian who wrote about Caesar and Spurinna, but did not coin or deliver the warning. The model fails to provide the correct attribution.\n\nTotal rating: 1"
+    },
+    {
+        "origin": {
+            "question": "in what state was the united states center of population gravity located during the period 1790",
+            "true_answer": "maryland",
+            "model_answer": "virginia maryland missouri",
+            "similarity": 0.6413599252700806
+        },
+        "evaluation": "Feedback::\nEvaluation: The correct answer is Maryland. The model output lists \"virginia maryland missouri,\" which includes the correct state but also adds incorrect ones and does not provide a single, precise answer. This makes the response misleading and not fully helpful.\nTotal rating: 2"
+    }
+]

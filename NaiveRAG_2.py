@@ -66,18 +66,24 @@ def find_top_k(query, chunks, k):
 # Creazione del tokenizer per il modello scelto
 tokenizer = AutoTokenizer.from_pretrained(model_name, padding_side="left")
 
+
 # Definizione del prompt per RAG
-instruction = """You are a ChatBot that answers based on the given context and your prior knowledge.
-    The context will be given as a series of sentences preceded by the word \'Fact\' and a progressive number.
-    Do not make things up. Do not include unnecessary information in your answer. 
-    If the answer should be a single or few words then you should answer like that."""
+#instruction = """You are a ChatBot that answers based on the given context and your prior knowledge.
+#    The context will be given as a series of sentences preceded by the word \'Fact\' and a progressive number.
+#    Do not make things up. Do not include unnecessary information in your answer. 
+#    If the answer should be a single or few words then you should answer like that."""
+# 
+
+instruction = """You are a ChatBot that answer based on your knowledge. Do not make things up. If you 
+        do not know the answer you must state that you don't know rather than being creative.
+        If the answer should be a single or few words then you should answer like that."""
 
 #Per il momento sto considerando solo le istanze in cui esiste la short answer
 #Come chunking strategy sentence_chunking
 
 print(f'Loading dataset...')
 with open("v1.0-simplified_nq-dev-all.jsonl", "r") as dataset:
-    rows = [json.loads(line) for _, line in zip(range(100), dataset)]
+    rows = [json.loads(line) for _, line in zip(range(500), dataset)]
     print(f'Dataset loaded!')
     result = []
     for row in rows:
@@ -92,14 +98,14 @@ with open("v1.0-simplified_nq-dev-all.jsonl", "r") as dataset:
             start, end = short_answer["start_token"], short_answer["end_token"]
             short_answer = " ".join(tokens[start:end])
 
-            chunks = make_sentence_chunks(document)
-            top_chunks = find_top_k(question, chunks, 10)
+            #chunks = make_sentence_chunks(document)
+            #top_chunks = find_top_k(question, chunks, 10)
 
-            context = [f'Fact{i}: {c[1]}' for i, c in zip(range(len(top_chunks)), top_chunks)]
-            context = " ".join(context)
+            #context = [f'Fact{i}: {c[1]}' for i, c in zip(range(len(top_chunks)), top_chunks)]
+            #context = " ".join(context)
             #print(context)
 
-            query = f"Context: {context} Question: {question}"
+            query = f"Question: {question}"
 
             messages = [
                 {"role": "system", "content": f"{instruction}"},
@@ -112,7 +118,7 @@ with open("v1.0-simplified_nq-dev-all.jsonl", "r") as dataset:
                 return_tensors="pt"
             ).to(device)
 
-            outputs = model.generate(input_ids=tokenized_chat, max_new_tokens=128)
+            outputs = model.generate(input_ids=tokenized_chat, max_new_tokens=64)
 
             model_answer = tokenizer.decode(outputs[0])
             model_answer = model_answer.split("<start_of_turn>model", 1)[1]
@@ -125,16 +131,21 @@ with open("v1.0-simplified_nq-dev-all.jsonl", "r") as dataset:
                 })
 
 
-for elem in result:
-    print(f"Question: {elem['question']}")
-    print(f"Model answer: {elem['model_answer']}")
-    print(f"True answer: {elem['true_answer']}")
-    print()
 
 sim = []
 for elem in result:
     t_emb = embedding_model.encode(elem["true_answer"])
     m_emb = embedding_model.encode(elem["model_answer"])
-    sim.append(cos_sim(t_emb, m_emb).item())
+    elem["similarity"] = cos_sim(t_emb, m_emb).item()
 
-print(sum(sim)/len(sim))
+for elem in result:
+    print(f"Question: {elem['question']}")
+    print(f"Model answer: {elem['model_answer']}")
+    print(f"True answer: {elem['true_answer']}")
+    print(f"Similarity: {elem['similarity']}")
+
+print(sum([e['similarity'] for e in result])/len(result))
+
+
+with open("NaiveRAG_2_raw_model.json", "w") as f:
+    json.dump(result, f, indent=4)

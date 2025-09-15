@@ -18,7 +18,7 @@ def normalize_string(s):
     return s.lower().strip()
 
 embedding_model_name = "sentence-transformers/distiluse-base-multilingual-cased-v2"
-model_name = "google/gemma-3-270m-it"
+model_name = "google/gemma-3-1b-it"
 dataset_name = "LLukas22/nq-simplified"
 
 device = "cuda" if torch.cuda.is_available() else "cpu"

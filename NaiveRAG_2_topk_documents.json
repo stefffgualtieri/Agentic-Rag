@@ -1,0 +1,1004 @@
+[
+    {
+        "question": "what do the 3 dots mean in math",
+        "true_answer": "the therefore sign is generally used before a logical consequence such as the conclusion of a syllogism",
+        "model_answer": "the symbols are part of a mathematical formula",
+        "similarity": 0.25219666957855225
+    },
+    {
+        "question": "who is playing the halftime show at super bowl 2016",
+        "true_answer": "coldplay with special guest performers beyonc\u00e9 and bruno mars",
+        "model_answer": "coldplay",
+        "similarity": 0.31290873885154724
+    },
+    {
+        "question": "who won the 2017 sports personality of the year",
+        "true_answer": "mo farah",
+        "model_answer": "mo farah",
+        "similarity": 1.0
+    },
+    {
+        "question": "where was the world economic forum held this year",
+        "true_answer": "davos a mountain resort in graub\u00fcnden in the eastern alps region of switzerland",
+        "model_answer": "world economic forum geneva",
+        "similarity": 0.03537007048726082
+    },
+    {
+        "question": "where are the giant redwoods located in california",
+        "true_answer": "humboldt county",
+        "model_answer": "redwood national park headquarters is located in crescent city california with a service office located in arcata and an operations center located in orick california",
+        "similarity": 0.14596393704414368
+    },
+    {
+        "question": "who has made the most premier league appearances",
+        "true_answer": "gareth barry",
+        "model_answer": "gareth barry",
+        "similarity": 0.9999998211860657
+    },
+    {
+        "question": "who was the first chief minister of west bengal",
+        "true_answer": "prafulla chandra ghosh of the indian national congress",
+        "model_answer": "prafulla chandra ghosh",
+        "similarity": 0.4562113285064697
+    },
+    {
+        "question": "two main types of research methods used in psychology",
+        "true_answer": "correlational research",
+        "model_answer": "correlational research experimental research",
+        "similarity": 0.9025940299034119
+    },
+    {
+        "question": "who plays peter in what we do in the shadows",
+        "true_answer": "ben fransham",
+        "model_answer": "based on the context stephen fry plays peter",
+        "similarity": 0.24898940324783325
+    },
+    {
+        "question": "when does the 14th season of grey s anatomy come out",
+        "true_answer": "september 28 2017",
+        "model_answer": "february 10 2017",
+        "similarity": 0.864835262298584
+    },
+    {
+        "question": "when was the first hunger games book published",
+        "true_answer": "2008",
+        "model_answer": "september 14 2008",
+        "similarity": 0.7488799691200256
+    },
+    {
+        "question": "how much is the united states in debt to china",
+        "true_answer": "12005",
+        "model_answer": "18",
+        "similarity": 0.4168039560317993
+    },
+    {
+        "question": "where did the race in grease take place",
+        "true_answer": "thunder road",
+        "model_answer": "los angeles river",
+        "similarity": 0.3917941451072693
+    },
+    {
+        "question": "what is the maximum data rate for the 80211a standard select one",
+        "true_answer": "54 mbit s",
+        "model_answer": "1 d standard 2001 ieee 802",
+        "similarity": 0.12724488973617554
+    },
+    {
+        "question": "who become the ceo of it wipro company in 2016",
+        "true_answer": "abid ali neemuchwala",
+        "model_answer": "wipro announced that it was buying appirio",
+        "similarity": 0.20647022128105164
+    },
+    {
+        "question": "who plays unis in she s the man",
+        "true_answer": "emily perkins",
+        "model_answer": "amanda bynes",
+        "similarity": 0.42888349294662476
+    },
+    {
+        "question": "where does the term dog and pony show come from",
+        "true_answer": "in the united states in the late 19th and early 20th centuries",
+        "model_answer": "the context provides the answer to the question",
+        "similarity": 0.1022723987698555
+    },
+    {
+        "question": "who is recognized as the founder of islam",
+        "true_answer": "muhammad",
+        "model_answer": "fact0 muslim identities an introduction to islam",
+        "similarity": 0.3546631932258606
+    },
+    {
+        "question": "who plays emma in air bud world pup",
+        "true_answer": "brittany paige bouck",
+        "model_answer": "caitlin wachs",
+        "similarity": 0.626309871673584
+    },
+    {
+        "question": "how old was sasuke when his clan died",
+        "true_answer": "seven",
+        "model_answer": "seven",
+        "similarity": 1.0
+    },
+    {
+        "question": "how long is training camp for nfl players",
+        "true_answer": "at least the first few weeks",
+        "model_answer": "late july",
+        "similarity": 0.5363467931747437
+    },
+    {
+        "question": "who is the pastor of new birth missionary baptist church now",
+        "true_answer": "stephen a davis",
+        "model_answer": "davis pastor",
+        "similarity": 0.629386305809021
+    },
+    {
+        "question": "who is doing 2018 super bowl half time show",
+        "true_answer": "justin timberlake",
+        "model_answer": "justin timberlake",
+        "similarity": 1.0
+    },
+    {
+        "question": "who hosted they think it s all over",
+        "true_answer": "comedian nick hancock",
+        "model_answer": "unknown",
+        "similarity": 0.20084317028522491
+    },
+    {
+        "question": "where does the movie proof of life take place",
+        "true_answer": "the republic of tecala",
+        "model_answer": "kenya",
+        "similarity": 0.2554444372653961
+    },
+    {
+        "question": "who breaks a tie in the us senate",
+        "true_answer": "vice president of the united states",
+        "model_answer": "senate",
+        "similarity": 0.5437421798706055
+    },
+    {
+        "question": "where does us highway 1 start and end",
+        "true_answer": "from fort kent maine at the canada us border south to key west florida",
+        "model_answer": "as a parallel route to i 95 near the atlantic ocean",
+        "similarity": 0.2871517837047577
+    },
+    {
+        "question": "who scored the most points in a single game in the nba",
+        "true_answer": "wilt chamberlain",
+        "model_answer": "fact0 most points scored in an opposing arena",
+        "similarity": 0.12124596536159515
+    },
+    {
+        "question": "where is natural gas found in the us",
+        "true_answer": "texas",
+        "model_answer": "fact0 natural gas which contains ngls is called wet gas fact1 natural gas increasingly became a sought for commodity fact2 as of 2011 262000 vehicles in the us ran on natural gas fact3 in the 1800s and",
+        "similarity": -0.026489699259400368
+    },
+    {
+        "question": "first jnanpith award was an autor of which language",
+        "true_answer": "malayalam",
+        "model_answer": "malayalam",
+        "similarity": 0.9999998807907104
+    },
+    {
+        "question": "who played the mad hatter in the batman tv show",
+        "true_answer": "david wayne",
+        "model_answer": "bruce wayne",
+        "similarity": 0.5490780472755432
+    },
+    {
+        "question": "how many cracker barrels in the united states",
+        "true_answer": "more than 600",
+        "model_answer": "nine",
+        "similarity": 0.2328844964504242
+    },
+    {
+        "question": "who voices randy in f is for family",
+        "true_answer": "tj miller",
+        "model_answer": "laura dern",
+        "similarity": 0.7345002293586731
+    },
+    {
+        "question": "how many countries does cadbury sell its products",
+        "true_answer": "more than 50 countries worldwide",
+        "model_answer": "according to the context cadbury sells its products in several countries",
+        "similarity": 0.3092923164367676
+    },
+    {
+        "question": "who does the voice of ash in sing",
+        "true_answer": "scarlett johansson",
+        "model_answer": "garth jennings",
+        "similarity": 0.580207347869873
+    },
+    {
+        "question": "who scored the most points in their nba career",
+        "true_answer": "kareem abdul jabbar",
+        "model_answer": "kareem abduljabbar has scored the most career points in the nba",
+        "similarity": 0.49486422538757324
+    },
+    {
+        "question": "with a land area of 54 314 square miles where does wisconsin rank among the 50 states",
+        "true_answer": "25",
+        "model_answer": "54 314 square miles",
+        "similarity": 0.19837456941604614
+    },
+    {
+        "question": "who plays charles on have and have nots",
+        "true_answer": "nick sager",
+        "model_answer": "the haves and have nots",
+        "similarity": 0.3961838185787201
+    },
+    {
+        "question": "where is nathan s hotdog eating contest held",
+        "true_answer": "at nathan s famous corporation s original and best known restaurant at the corner of surf and stillwell avenues in coney island a neighborhood of brooklyn new york city",
+        "model_answer": "japan",
+        "similarity": 0.014156565070152283
+    },
+    {
+        "question": "who wrote the book my country my life",
+        "true_answer": "lk advani an indian politician who served as the deputy prime minister of india from 2002 to 2004 and was the leader of the opposition in the 15th lok sabha",
+        "model_answer": "advani s autobiography my country my life by lutakrishna advani rupa",
+        "similarity": 0.19738388061523438
+    },
+    {
+        "question": "what does it mean to be on parole",
+        "true_answer": "a temporary release of a prisoner who agrees to certain conditions before the completion of the maximum sentence period",
+        "model_answer": "to be on parole means to be released from prison with supervision",
+        "similarity": 0.5110542178153992
+    },
+    {
+        "question": "the origins of the stations of the cross",
+        "true_answer": "via dolorosa in jerusalem which is believed to be the actual path jesus walked to mount calvary",
+        "model_answer": "the context doesnt provide origins",
+        "similarity": 0.08313429355621338
+    },
+    {
+        "question": "where does the water come from to fill lake eyre",
+        "true_answer": "warburton river",
+        "model_answer": "monsoon",
+        "similarity": 0.3159625232219696
+    },
+    {
+        "question": "who is the founder of google and when was it founded",
+        "true_answer": "1998",
+        "model_answer": "larry page and sergey brin 1998",
+        "similarity": 0.5037044286727905
+    },
+    {
+        "question": "who did the dominican republic gain its independence from",
+        "true_answer": "haiti",
+        "model_answer": "dominican republic",
+        "similarity": 0.19258233904838562
+    },
+    {
+        "question": "who wrote the text for jeanie with the light brown hair",
+        "true_answer": "stephen foster",
+        "model_answer": "stephen foster",
+        "similarity": 0.9999998807907104
+    },
+    {
+        "question": "where does the bob and tom show broadcast from",
+        "true_answer": "wfbq in indianapolis indiana",
+        "model_answer": "from their nightly tv show",
+        "similarity": 0.15358538925647736
+    },
+    {
+        "question": "who won the champions league final in 2016",
+        "true_answer": "real madrid",
+        "model_answer": "real madrid",
+        "similarity": 1.0000001192092896
+    },
+    {
+        "question": "who has the most gold medals in the winter olympics of all time",
+        "true_answer": "norway",
+        "model_answer": "none",
+        "similarity": 0.5097134113311768
+    },
+    {
+        "question": "where was the movie strangers prey at night filmed",
+        "true_answer": "covington kentucky",
+        "model_answer": "unknown",
+        "similarity": 0.2379809319972992
+    },
+    {
+        "question": "when does a limit of a function not exist",
+        "true_answer": "if some inputs very close to p are taken to outputs that stay a fixed distance apart",
+        "model_answer": "fact0 if either one sided limit does not exist at p the limit at p does not exist",
+        "similarity": 0.3732927739620209
+    },
+    {
+        "question": "when was i do n t like mondays released",
+        "true_answer": "21 july 1979",
+        "model_answer": "1979",
+        "similarity": 0.8545490503311157
+    },
+    {
+        "question": "what do the economic systems of the uk germany and russia have in common",
+        "true_answer": "reached an economy of at least us 2 trillion by gdp in nominal or ppp terms",
+        "model_answer": "the economic systems of the uk germany and russia share a common characteristic they are all based on a market economy",
+        "similarity": 0.21887081861495972
+    },
+    {
+        "question": "what does the sun represent on the uruguay flag",
+        "true_answer": "represents the may revolution of 1810",
+        "model_answer": "nine horizontal stripes of white alternate with blue",
+        "similarity": 0.10011995583772659
+    },
+    {
+        "question": "who dies in season 2 of the originals",
+        "true_answer": "kol",
+        "model_answer": "elijah rebekah klaus and davina",
+        "similarity": 0.1749437153339386
+    },
+    {
+        "question": "when did beryl markham fly across the atlantic",
+        "true_answer": "september 1936",
+        "model_answer": "1936",
+        "similarity": 0.8794229030609131
+    },
+    {
+        "question": "who played john clark sr on nypd blue",
+        "true_answer": "joe spano",
+        "model_answer": "john clark sr",
+        "similarity": 0.653164803981781
+    },
+    {
+        "question": "who wrote most of the declaration of independance",
+        "true_answer": "thomas jefferson",
+        "model_answer": "fact0 thomas jefferson",
+        "similarity": 0.7071942090988159
+    },
+    {
+        "question": "who does brant daugherty play in pretty little liars",
+        "true_answer": "noel kahn",
+        "model_answer": "brant kahn",
+        "similarity": 0.8238586187362671
+    },
+    {
+        "question": "who played the villain in tiger zinda hai",
+        "true_answer": "sajjad delafrooz",
+        "model_answer": "paresh rawal",
+        "similarity": 0.7986656427383423
+    },
+    {
+        "question": "when did under the cork tree come out",
+        "true_answer": "may 3 2005",
+        "model_answer": "february 2013",
+        "similarity": 0.5578397512435913
+    },
+    {
+        "question": "where does eye of the round roast come from",
+        "true_answer": "the rear leg of the cow",
+        "model_answer": "fact0 the round is divided into cuts including the eye of round bottom round and top round with or without the round bone femur and may include the knuckle sirloin tip depending on how the round is separated from the loin",
+        "similarity": 0.10234736651182175
+    },
+    {
+        "question": "who sings the song let me love you",
+        "true_answer": "justin bieber",
+        "model_answer": "justin bieber",
+        "similarity": 0.9999999403953552
+    },
+    {
+        "question": "who is the leading african producer of wool",
+        "true_answer": "south africa",
+        "model_answer": "the context does not provide information about the leading african producer of wool",
+        "similarity": 0.2922993302345276
+    },
+    {
+        "question": "how many inches is the iphone 5s screen",
+        "true_answer": "4 inch screen size",
+        "model_answer": "60",
+        "similarity": 0.16973057389259338
+    },
+    {
+        "question": "what was the first capital city of australia",
+        "true_answer": "melbourne",
+        "model_answer": "melbourne",
+        "similarity": 1.0
+    },
+    {
+        "question": "who won the womens 2017 ncaa basketball tournament",
+        "true_answer": "south carolina",
+        "model_answer": "jump to navigation search 2017 ncaa division i women s basketball tournament",
+        "similarity": 0.0836498886346817
+    },
+    {
+        "question": "how many episodes of ray donovan series 3 are there",
+        "true_answer": "12",
+        "model_answer": "2015",
+        "similarity": 0.4067689776420593
+    },
+    {
+        "question": "when does canada switch to daylight savings time",
+        "true_answer": "the second sunday of march",
+        "model_answer": "fact0 spring and fall fact1 html",
+        "similarity": 0.16772861778736115
+    },
+    {
+        "question": "where does jack ryan live in patriot games",
+        "true_answer": "chesapeake bay south of annapolis in maryland",
+        "model_answer": "patriot games",
+        "similarity": 0.05479241535067558
+    },
+    {
+        "question": "who gave the famous objective co relative theory",
+        "true_answer": "ts eliot",
+        "model_answer": "t",
+        "similarity": 0.7191371917724609
+    },
+    {
+        "question": "where do bullets go when fired in the air",
+        "true_answer": "bullets discharged into the air fall back down to the ground",
+        "model_answer": "bullets fall back down to the ground",
+        "similarity": 0.8918702006340027
+    },
+    {
+        "question": "when do replays become available on nfl game pass",
+        "true_answer": "after their original live broadcasts end",
+        "model_answer": "starting with the 2015 season",
+        "similarity": 0.31319552659988403
+    },
+    {
+        "question": "when is the new jurassic world game coming out",
+        "true_answer": "june 12 2018",
+        "model_answer": "unknown",
+        "similarity": 0.21137681603431702
+    },
+    {
+        "question": "what was the alliance between great britian russia and france known as",
+        "true_answer": "the triple entente",
+        "model_answer": "francorussian alliance",
+        "similarity": 0.355167418718338
+    },
+    {
+        "question": "when was the death penalty reinstated in oregon",
+        "true_answer": "1984",
+        "model_answer": "fact0 1978",
+        "similarity": 0.677661120891571
+    },
+    {
+        "question": "what was icq as related to instant messaging",
+        "true_answer": "an instant messaging client that was first developed and popularized by the israeli company mirabilis in 1996",
+        "model_answer": "icq was an instant messaging client",
+        "similarity": 0.41941818594932556
+    },
+    {
+        "question": "when does season 3 of the riveras start",
+        "true_answer": "march 11 2018",
+        "model_answer": "2018",
+        "similarity": 0.7575111389160156
+    },
+    {
+        "question": "chandra and bhaga river meets at the place",
+        "true_answer": "tandi in lahaul",
+        "model_answer": "fact0 the ravi is born in bara banghal kangra district as a joint stream formed by the glacier fead bhadal and tantgari",
+        "similarity": 0.08008211851119995
+    },
+    {
+        "question": "when was the national flag of india adopted",
+        "true_answer": "during a meeting of the constituent assembly held on 22 july 1947",
+        "model_answer": "1931",
+        "similarity": 0.4141215682029724
+    },
+    {
+        "question": "who is often associated with printing the first book using moveable type in germany",
+        "true_answer": "johannes gutenberg",
+        "model_answer": "johannes gutenberg",
+        "similarity": 1.0
+    },
+    {
+        "question": "who are the artists in the traveling wilburys",
+        "true_answer": "bob dylan",
+        "model_answer": "the traveling wilburys",
+        "similarity": 0.40019476413726807
+    },
+    {
+        "question": "who plays artemisia in 300 rise of an empire",
+        "true_answer": "eva green",
+        "model_answer": "none",
+        "similarity": 0.23422259092330933
+    },
+    {
+        "question": "who is the most played artist on spotify",
+        "true_answer": "ed sheeran",
+        "model_answer": "drake",
+        "similarity": 0.47406813502311707
+    },
+    {
+        "question": "where is the opposition with jordan klepper filmed",
+        "true_answer": "hotel pennsylvania new york city",
+        "model_answer": "detroit free press",
+        "similarity": 0.17239850759506226
+    },
+    {
+        "question": "who is young george bailey in it s a wonderful life",
+        "true_answer": "robert james anderson",
+        "model_answer": "young george bailey",
+        "similarity": 0.45463818311691284
+    },
+    {
+        "question": "who won the battle of stirling bridge 1297",
+        "true_answer": "the forces of andrew moray and william wallace",
+        "model_answer": "battle of stirling bridge",
+        "similarity": 0.27707183361053467
+    },
+    {
+        "question": "who plays dylan in daddy s home 2",
+        "true_answer": "owen vaccaro",
+        "model_answer": "mel gibson",
+        "similarity": 0.4603274166584015
+    },
+    {
+        "question": "where is the tablet of the ten commandments",
+        "true_answer": "in the ark of the covenant",
+        "model_answer": "the tablet of the ten commandments",
+        "similarity": 0.34630119800567627
+    },
+    {
+        "question": "where does the chinatown bus stop in nyc",
+        "true_answer": "forsyth street at the foot of the manhattan bridge in the little fuzhou neighborhood within manhattan s chinatown",
+        "model_answer": "new york city",
+        "similarity": 0.1799706220626831
+    },
+    {
+        "question": "when did the right to buy scheme start",
+        "true_answer": "1980",
+        "model_answer": "fact0 2005",
+        "similarity": 0.47630900144577026
+    },
+    {
+        "question": "how many players have scored 10000 runs in odi",
+        "true_answer": "11",
+        "model_answer": "10000",
+        "similarity": 0.5492833852767944
+    },
+    {
+        "question": "what is the movie new jersey drive about",
+        "true_answer": "joy riding black teenagers in 1990s newark new jersey",
+        "model_answer": "1995 crime drama film about joy riding black teenagers in 1990s newark new jersey",
+        "similarity": 0.7699549198150635
+    },
+    {
+        "question": "who has won the most f1 grand prix",
+        "true_answer": "michael schumacher",
+        "model_answer": "michael schumacher",
+        "similarity": 1.0
+    },
+    {
+        "question": "latest series of keeping up with the kardashians",
+        "true_answer": "14",
+        "model_answer": "keeping up with the kardashians",
+        "similarity": 0.03623100742697716
+    },
+    {
+        "question": "where does the saying keeping up with the jones come from",
+        "true_answer": "the comic strip keeping up with the joneses",
+        "model_answer": "in a comic strip",
+        "similarity": 0.6160410046577454
+    },
+    {
+        "question": "who plays meredith quill in guardians of the galaxy 2",
+        "true_answer": "laura jane haddock",
+        "model_answer": "starz",
+        "similarity": 0.323943555355072
+    },
+    {
+        "question": "who has the most catches in nfl history",
+        "true_answer": "jerry rice",
+        "model_answer": "1000",
+        "similarity": 0.21632350981235504
+    },
+    {
+        "question": "locations for the film an englishman who went up a hill",
+        "true_answer": "llanrhaeadr ym mochnant and llansilin in powys",
+        "model_answer": "locations england",
+        "similarity": 0.08156882226467133
+    },
+    {
+        "question": "when was the last time mount ruapehu erupted",
+        "true_answer": "at about 8 20 pm on 25 september 2007",
+        "model_answer": "november 1995",
+        "similarity": 0.41986411809921265
+    },
+    {
+        "question": "where was 2017 beauty and the beast filmed",
+        "true_answer": "shepperton studios in surrey united kingdom",
+        "model_answer": "disney",
+        "similarity": 0.09812436997890472
+    },
+    {
+        "question": "what proposition made the insurance commissioner an elected position",
+        "true_answer": "proposition 103",
+        "model_answer": "proposition 103 in 1988",
+        "similarity": 0.7463912963867188
+    },
+    {
+        "question": "where is the 7th game of the world series played",
+        "true_answer": "at the site of the team holding the home advantage across the series",
+        "model_answer": "extra innings",
+        "similarity": 0.16525918245315552
+    },
+    {
+        "question": "who is the valley of the dolls based on",
+        "true_answer": "judy garland",
+        "model_answer": "jacqueline susann",
+        "similarity": 0.6417632699012756
+    },
+    {
+        "question": "who was the actor who played crocodile dundee",
+        "true_answer": "paul hogan",
+        "model_answer": "mick crocodile dundee",
+        "similarity": 0.32491570711135864
+    },
+    {
+        "question": "where are trigger points located in the body",
+        "true_answer": "in the fascia surrounding skeletal muscle",
+        "model_answer": "fact0 muscles",
+        "similarity": 0.4947710633277893
+    },
+    {
+        "question": "ambulatory is a term used in health care to describe",
+        "true_answer": "medical care provided on an outpatient basis including diagnosis observation consultation treatment intervention and rehabilitation services",
+        "model_answer": "medical care provided on an outpatient basis",
+        "similarity": 0.6170223951339722
+    },
+    {
+        "question": "who was the ottoman governor who led egypt in the years following the napoleonic wars",
+        "true_answer": "ismail pasha and tewfik pasha",
+        "model_answer": "husrev pasha",
+        "similarity": 0.3581370413303375
+    },
+    {
+        "question": "what role does the president play in foreign affairs",
+        "true_answer": "negotiates treaties with foreign nations",
+        "model_answer": "the president plays a role in foreign affairs",
+        "similarity": 0.38783353567123413
+    },
+    {
+        "question": "who won season 8 of america s next top model",
+        "true_answer": "20 year old jaslene gonzalez from chicago illinois",
+        "model_answer": "jaslene gonzalez",
+        "similarity": 0.1947099268436432
+    },
+    {
+        "question": "the first political society started under british rule in india was",
+        "true_answer": "the british indian association",
+        "model_answer": "bengal british india society",
+        "similarity": 0.8248651623725891
+    },
+    {
+        "question": "when s the last time philly won the superbowl",
+        "true_answer": "2017",
+        "model_answer": "2014",
+        "similarity": 0.7475869655609131
+    },
+    {
+        "question": "where does the term pop music come from",
+        "true_answer": "originated in britain in the mid1950s as a description for rock and roll",
+        "model_answer": "fact0 pop art",
+        "similarity": 0.05926738306879997
+    },
+    {
+        "question": "is the right to life liberty and the pursuit of happiness in the constitution",
+        "true_answer": "chapter iii article 13 of the 1947 constitution of japan",
+        "model_answer": "fact0 life liberty and the pursuit of happiness fact1 the second paragraph of the first article in the declaration of independence contains the phrase life liberty and the pursuit of happiness fact2 the fifth amendment and fourteenth amendment to the united states constitution declare that governments can not deprive any person of life liberty or property",
+        "similarity": 0.2590629458427429
+    },
+    {
+        "question": "when did equus first appear in fossil record",
+        "true_answer": "1820s",
+        "model_answer": "1820s",
+        "similarity": 1.0000001192092896
+    },
+    {
+        "question": "where was percy jackson and the olympians filmed",
+        "true_answer": "vancouver",
+        "model_answer": "jump up percy jackson the olympians the lightning thief",
+        "similarity": 0.04510476440191269
+    },
+    {
+        "question": "when was the last amendment to the constitution passed",
+        "true_answer": "may 5 1992",
+        "model_answer": "december 5 1933",
+        "similarity": 0.6707267761230469
+    },
+    {
+        "question": "sending money home to the native country is an example of",
+        "true_answer": "remittance",
+        "model_answer": "fact1",
+        "similarity": 0.2821553349494934
+    },
+    {
+        "question": "how many points did lebron james scored in his career",
+        "true_answer": "31038",
+        "model_answer": "2015",
+        "similarity": 0.4440380036830902
+    },
+    {
+        "question": "what is foreign account tax compliance act fatca",
+        "true_answer": "a 2010 united states federal law requiring all nonus foreign financial institutions ffis to search their records for customers with indicia of us person status such as a us place of birth and to report the assets and identities of such persons to the us department of the treasury",
+        "model_answer": "fact0 the fatca foreign account tax compliance act fact1 jump up foreign account tax compliance act fatca u fact2 jump up the foreign account tax compliance act fatca pdf fact3 what you need to know about foreign account tax compliance act s fatca impact on nonu fact",
+        "similarity": 0.30201828479766846
+    },
+    {
+        "question": "who was charlie writing to in perks of being a wallflower movie",
+        "true_answer": "an unknown recipient",
+        "model_answer": "stephen chbosky",
+        "similarity": 0.14522171020507812
+    },
+    {
+        "question": "who won the men s single title of australia open on 1 february 2015",
+        "true_answer": "djokovic",
+        "model_answer": "1 novak djokovic 2 andy murray 3 tim hammer 4 rafael nadal 5 andrew murray 6 novak djokovic 7 andy murray 8 tim hammer 9 rafael nadal 10 andrew murray",
+        "similarity": 0.15696564316749573
+    },
+    {
+        "question": "who played mr willoughby in sense and sensibility",
+        "true_answer": "matthew gregory wise",
+        "model_answer": "john willoughby",
+        "similarity": 0.32067984342575073
+    },
+    {
+        "question": "when is star vs the forces of evil coming back 2018",
+        "true_answer": "march 3 2018",
+        "model_answer": "this is a tv movie coming this summer",
+        "similarity": 0.18773749470710754
+    },
+    {
+        "question": "when did the soviet union start and end",
+        "true_answer": "in eurasia",
+        "model_answer": "fact0 1929",
+        "similarity": 0.2385256588459015
+    },
+    {
+        "question": "where are the hormones of the anterior pituitary created",
+        "true_answer": "the pars distalis distal part",
+        "model_answer": "the anterior pituitary",
+        "similarity": 0.39741334319114685
+    },
+    {
+        "question": "where was one direction what makes you beautiful filmed",
+        "true_answer": "malibu california",
+        "model_answer": "unknown",
+        "similarity": 0.21328452229499817
+    },
+    {
+        "question": "when did they start vaccinating for whooping cough",
+        "true_answer": "the 1940s",
+        "model_answer": "1940s",
+        "similarity": 0.9663985967636108
+    },
+    {
+        "question": "who is the new york state senate majority leader",
+        "true_answer": "john j flanagan",
+        "model_answer": "fact0 majority leader of the new york state senate fact1 john j fact2 president fact3 senate tied fact4 lieutenant governor fact5 president pro tempore fact6 majority leadership fact7 phtitlemajority_leader_of_the_new_york",
+        "similarity": 0.19003987312316895
+    },
+    {
+        "question": "who played cory s older brother on boy meets world",
+        "true_answer": "will friedle",
+        "model_answer": "eric matthick",
+        "similarity": 0.35791897773742676
+    },
+    {
+        "question": "who sings i want to be a rockstar",
+        "true_answer": "canadian rock band nickelback",
+        "model_answer": "the song has been compared to earlier satirical odes to the rockstar lifestyle including dire straits money for nothing 1985 joe walsh s life s been good 1978 dr",
+        "similarity": 0.20882847905158997
+    },
+    {
+        "question": "who did virginia cavaliers lose to in basketball this year",
+        "true_answer": "umbc",
+        "model_answer": "virginia",
+        "similarity": 0.6613017320632935
+    },
+    {
+        "question": "who was the king of england in 1756",
+        "true_answer": "george ii",
+        "model_answer": "george i elector of hanover",
+        "similarity": 0.5965994000434875
+    },
+    {
+        "question": "what was the full name of the titanic",
+        "true_answer": "rms titanic",
+        "model_answer": "titanic",
+        "similarity": 0.8878493309020996
+    },
+    {
+        "question": "to whom do the powers not given to the federal government by the constitution go",
+        "true_answer": "the states or the people",
+        "model_answer": "the states",
+        "similarity": 0.7368680238723755
+    },
+    {
+        "question": "which president of the united states was a boy scout",
+        "true_answer": "gerald ford",
+        "model_answer": "cannot be determined",
+        "similarity": 0.11410711705684662
+    },
+    {
+        "question": "where does the last name orozco originate from",
+        "true_answer": "spanish basque origin",
+        "model_answer": "mexican basque",
+        "similarity": 0.7511858940124512
+    },
+    {
+        "question": "which river separates the bronx in new york city from manhattan island",
+        "true_answer": "harlem river",
+        "model_answer": "bronx river flows into the east river",
+        "similarity": 0.550849199295044
+    },
+    {
+        "question": "i like the way you move video cast",
+        "true_answer": "fonzworth bentley",
+        "model_answer": "none",
+        "similarity": 0.19746625423431396
+    },
+    {
+        "question": "what is the full scientific name for the e coli bacteria",
+        "true_answer": "escherichia coli",
+        "model_answer": "cherichia coli migula 1895 castellani and chalmers 1919",
+        "similarity": 0.4239034056663513
+    },
+    {
+        "question": "when was the rock and roll hall of fame built in cleveland",
+        "true_answer": "september 1995",
+        "model_answer": "1987",
+        "similarity": 0.6331746578216553
+    },
+    {
+        "question": "who acts as the chairman of the election commission",
+        "true_answer": "achal kumar jyoti",
+        "model_answer": "the president",
+        "similarity": 0.319335401058197
+    },
+    {
+        "question": "who played mrs warboys in one foot in the grave",
+        "true_answer": "doreen mantle",
+        "model_answer": "mantle",
+        "similarity": 0.8281395435333252
+    },
+    {
+        "question": "who wrote the song always be humble and kind",
+        "true_answer": "lori mckenna",
+        "model_answer": "lori mckenna",
+        "similarity": 0.9999999403953552
+    },
+    {
+        "question": "where does arsenic and old lace take place",
+        "true_answer": "brooklyn new york",
+        "model_answer": "1939 on broadway",
+        "similarity": 0.16352272033691406
+    },
+    {
+        "question": "what is the second book in the alchemyst series",
+        "true_answer": "the magician",
+        "model_answer": "the enchantress",
+        "similarity": 0.8374948501586914
+    },
+    {
+        "question": "bowler to take hattrick in both inning in test match",
+        "true_answer": "leg spinner jimmy matthews",
+        "model_answer": "fact0 merv hughes",
+        "similarity": 0.33068040013313293
+    },
+    {
+        "question": "what is the width of a cricket bat",
+        "true_answer": "no more than 425 inches 108 mm",
+        "model_answer": "none",
+        "similarity": 0.21571743488311768
+    },
+    {
+        "question": "who played alex cross in along came a spider",
+        "true_answer": "morgan freeman",
+        "model_answer": "michael wincott",
+        "similarity": 0.4026404023170471
+    },
+    {
+        "question": "who was the first signatory of the israeli declaration of independence",
+        "true_answer": "david ben gurion",
+        "model_answer": "ben gurion",
+        "similarity": 0.6399520635604858
+    },
+    {
+        "question": "who came up with the first working periodic table",
+        "true_answer": "dmitri mendeleev",
+        "model_answer": "lothar meyer",
+        "similarity": 0.6807698011398315
+    },
+    {
+        "question": "when did cybermen first appear in doctor who",
+        "true_answer": "1966",
+        "model_answer": "fact0 1966",
+        "similarity": 0.7931726574897766
+    },
+    {
+        "question": "communities of similar organisms found in a particular environment are called",
+        "true_answer": "species",
+        "model_answer": "communities",
+        "similarity": 0.3914267122745514
+    },
+    {
+        "question": "who plays scrooge mcduck in the new ducktales",
+        "true_answer": "david tennant",
+        "model_answer": "david tennant",
+        "similarity": 1.0
+    },
+    {
+        "question": "who wrote i m in the mood for dancing",
+        "true_answer": "ben findon mike myers and bob puzey",
+        "model_answer": "ben findon mike myers and bob puzey",
+        "similarity": 1.0
+    },
+    {
+        "question": "most passing yards in nfl history in a game",
+        "true_answer": "norm van brocklin",
+        "model_answer": "7",
+        "similarity": 0.16779905557632446
+    },
+    {
+        "question": "how many world series wins does the dodgers have",
+        "true_answer": "6",
+        "model_answer": "six",
+        "similarity": 0.9298223853111267
+    },
+    {
+        "question": "who won the nobel peace prize for 2017",
+        "true_answer": "the international campaign to abolish nuclear weapons ican",
+        "model_answer": "ican",
+        "similarity": 0.15677793323993683
+    },
+    {
+        "question": "why did the colonists have a problem with the tea act of 1773",
+        "true_answer": "because they believed that it violated their rights as englishmen to no taxation without representation that is to be taxed only by their own elected representatives and not by a british parliament in which they were not represented",
+        "model_answer": "to put tea into britain",
+        "similarity": 0.2998409569263458
+    },
+    {
+        "question": "where does cleavage of the peptide bond by chymotrypsin occur",
+        "true_answer": "where the side chain of the amino acid n terminal to the scissile amide bond the p position is a large hydrophobic amino acid tyrosine tryptophan and phenylalanine",
+        "model_answer": "in positions arg15 ile16 and produces \u03c0 chymotrypsin",
+        "similarity": 0.19974008202552795
+    },
+    {
+        "question": "how long did it take to build the great pyramid of egypt",
+        "true_answer": "20 year period",
+        "model_answer": "unknown",
+        "similarity": 0.18052741885185242
+    },
+    {
+        "question": "which is the world s largest company in terms of revenue",
+        "true_answer": "walmart",
+        "model_answer": "walmart",
+        "similarity": 0.9999999403953552
+    },
+    {
+        "question": "where do the secretory cells of endocrine glands secrete their products",
+        "true_answer": "epithelial surface",
+        "model_answer": "fact0 endocrine glands secrete products directly into the bloodstream",
+        "similarity": 0.17012563347816467
+    },
+    {
+        "question": "where did the cosbys live in new york",
+        "true_answer": "brooklyn heights new york at 10 stigwood avenue",
+        "model_answer": "brooklyn new york",
+        "similarity": 0.6883714199066162
+    },
+    {
+        "question": "where did the beer hall putsch take place",
+        "true_answer": "munich bavaria",
+        "model_answer": "munich bavaria germany",
+        "similarity": 0.6927381157875061
+    },
+    {
+        "question": "who said beware of the ides of march",
+        "true_answer": "a haruspex named spurinna",
+        "model_answer": "plutarch",
+        "similarity": 0.46893492341041565
+    },
+    {
+        "question": "in what state was the united states center of population gravity located during the period 1790",
+        "true_answer": "maryland",
+        "model_answer": "virginia maryland missouri",
+        "similarity": 0.6413599252700806
+    }
+]
